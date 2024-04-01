@@ -11,9 +11,7 @@ app = Flask(__name__, static_folder='../static',  #设置静态文件夹目录
 instance_relative_config=True)
 app.config['DEBUG'] = config.DEBUG
 
-@app.route('/')
-def index():
-    return render_template('../static/index.html')
+
 
 # 设定数据库链接
 app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql://{}:{}@{}/flask_demo'.format(config.username, config.password,
