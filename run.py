@@ -2,6 +2,10 @@
 import sys
 
 from wxcloudrun import app
+from flask import render_template
+@app.route('/')
+def index():
+    return render_template('../static/index.html')
 
 # 启动Flask Web服务
 if __name__ == '__main__':
