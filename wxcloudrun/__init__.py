@@ -8,8 +8,7 @@ pymysql.install_as_MySQLdb()
 
 # 初始化web应用
 app = Flask(__name__, static_folder='../static',  #设置静态文件夹目录
- static_url_path=""
-, instance_relative_config=True)
+instance_relative_config=True)
 app.config['DEBUG'] = config.DEBUG
 
 @app.route('/')
