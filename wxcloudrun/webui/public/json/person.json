@@ -1,0 +1,739 @@
+[
+    {
+        "name": "张鸿文",
+        "organization": "北京师范大学",
+        "photo_src": "./photos/张鸿文.jpg",
+        "position": "博士后",
+        "profile": "张鸿文，北京师范大学副教授。2021年于中科院自动化所获博士学位，其后在清华大学刘烨斌课题组开展博士后工作，现任教职于北师大人工智能学院。主要从事以人为中心的三维视觉研究，尤其是三维人体的运动捕捉与理解、服装建模与驱动、化身重建与渲染等课题。在TPAMI/TOG和CVPR/ICCV/ECCV/SIGGRAPH等领域顶级期刊和会议发表论文30余篇，包含一作CCF-A类论文7篇，Google Scholar引用量1700余次，提出的动捕系列算法累计获GitHub星标超过1000。曾获中科院优博论文、中科院院长奖等荣誉。",
+        "title": "副教授"
+    },
+    {
+        "name": "黄惠",
+        "organization": "深圳大学",
+        "photo_src": "./photos/黄惠.jpg",
+        "position": "计算机与软件学院院长",
+        "profile": "加拿大UBC数学博士，深圳大学首批腾讯冠名特聘教授，计算机科学与技术学科带头人，教育部长江学者特聘教授，入选国家高层次人才计划，英国皇家牛顿高级学者，广东省杰出人才。研究领域为计算机图形学，致力于三维获取、点云表示、几何建模与场景理解等方向。已发表计算机顶刊顶会论文100+篇，其中ACM TOG / SIGGRAPH论文52篇；授权美国发明专利35项，中国发明专利101项；开源研究工作代码/数据集55个，其中大规模城市数据集UrbanScene3D和UrbanBIS双双荣获中国计算机学会“图形开源数据集奖”。",
+        "title": "教授"
+    },
+    {
+        "name": "杨欣",
+        "organization": "华中科技大学",
+        "photo_src": "./photos/杨欣.jpg",
+        "position": null,
+        "profile": "杨欣，华中科技大学电信学院教授，国家优青获得者；博士毕业于加州大学圣塔芭芭拉分校，主要从事计算机视觉和医学影像分析领域研究工作，已在国际权威期刊及学术会议上发表学术论文90余篇，授权美国/中国发明专利20余项，出版英文书籍章节2部；获得中国图象图形学会石青云女科学家奖，CCF B类会议ISMAR最佳论文提名（排名1）；指导学生获得2020年全国互联网+金奖、2023年挑战杯湖北省特等奖和2023年互联网+湖北省金奖；担任SCI期刊IEEE-TMI及Multimedia System编委及CVPR、MM和MICCAI领域主席；现任IEEE Bio Imaging Signal Processing (BISP)Technical Committee (TC)技术委员会委员，CSIG青工委副秘书长，CCF多媒体专委会副秘书长等。",
+        "title": "教授"
+    },
+    {
+        "name": "刘利刚",
+        "organization": "中国科学技术大学",
+        "photo_src": "./photos/刘利刚.jpg",
+        "position": "数学科学学院计算与应用数学系系主任",
+        "profile": "刘利刚，中国科学技术大学教授，国家杰青。从事计算几何与计算机图形学方向的研究，任图形计算与感知交互安徽省重点实验室主任。于2001年在浙江大学获得应用数学博士学位。曾获得陆增镛CAD&CG高科技奖一等奖、国家自然科学奖二等奖（排名3）等奖项。曾任多个国际会议的大会主席或程序主席，现任多个国际学术期刊编委。任中国工业与应用数学学会几何设计与计算专业委员会 (CSIAM GDC) 主任、中国图学学会常务理事、国际几何建模与处理(GMP)协会指导委员会委员、亚洲图形学协会(Asiagraphics)秘书长。",
+        "title": "教授"
+    },
+    {
+        "name": "刘烨斌",
+        "organization": "清华大学",
+        "photo_src": "./photos/刘烨斌.jpg",
+        "position": null,
+        "profile": "刘烨斌，清华大学长聘教授，国家杰青基金获得者。研究方向为三维视觉、数字人重建、生成与交互。发表TPAMI/ SIGGRAPH/CVPR/ICCV等论文近 百篇。多次担任CVPR、ICCV、ECCV领域主席，SIGGRAPH Asia技术委员会委员，担任IEEE TVCG、CGF编委。任中国图象图形学会三维视觉专委会副主任。获2012年国家技术发明一等奖（排名3），2019年中国电子学会技术发明一等奖（排名1）。",
+        "title": "教授"
+    },
+    {
+        "name": "刘利斌",
+        "organization": "北京大学",
+        "photo_src": "./photos/刘利斌.jpg",
+        "position": null,
+        "profile": "刘利斌，北京大学智能学院助理教授。博士毕业于清华大学，后曾于加拿大不列颠哥伦比亚大学（The University of British Columbia）及美国迪士尼研究院（Disney Research）进行博士后研究，以及美国硅谷创业公司DeepMotion Inc.担任首席科学家。主要研究方向是计算机图形学，特别是数字人建模与动画、物理仿真、运动控制以及相关的优化控制、机器学习、增强学习等领域。他曾获得 SIGGRAPH Asia 2022 Best Paper Award、SIGGRAPH 2023 Honorable Mention Award 等奖项，并多次担任图形学领域重要国际会议如SIGGRAPH (North America/Asia)、EG、PG、SCA等的论文程序委员，以及图形学领域主要会议和期刊的审稿人。",
+        "title": "助理教授"
+    },
+    {
+        "name": "周晓巍",
+        "organization": "浙江大学",
+        "photo_src": "./photos/周晓巍.jpg",
+        "position": null,
+        "profile": "周晓巍，浙江大学“百人计划”研究员，国家级青年人才项目入选者。研究方向主要为三维视觉及其在混合现实、机器人等领域的应用。近五年在相关领域的顶级期刊与会议上发表论文50余篇，十余次获得顶级会议口头报告，多次入选CVPR最佳论文候选。曾获得浙江省自然科学一等奖，陆增镛CAD&CG高科技奖一等奖，CCF优秀图形开源贡献奖，入选斯坦福大学发布的2021全球前2%顶尖科学家榜单。担任国际顶级期刊IJCV编委、顶级会议CVPR/ICCV领域主席，图形学与混合现实研讨会（GAMES）执行委员会主席，视觉与学习研讨会（VALSE）常务委员，CSIG三维视觉专委会常务委员。",
+        "title": "研究员"
+    },
+    {
+        "name": "张举勇",
+        "organization": "中国科学技术大学",
+        "photo_src": "./photos/张举勇.jpg",
+        "position": null,
+        "profile": "张举勇，中国科学技术大学数学科学学院教授，获国家基金委优秀青年基金、中科院青促会优秀会员资助。2006年本科毕业于中科大计算机系，2011年博士毕业于新加坡南洋理工大学，2011年至2012年于瑞士联邦理工学院洛桑分校从事博士后研究。研究领域为计算机图形学与三维视觉，现担任IEEE Trans on Multimedia与IEEE Computer Graphics and Applications期刊编委。",
+        "title": "教授"
+    },
+    {
+        "name": "许威威",
+        "organization": "浙江大学",
+        "photo_src": "./photos/许威威.jpg",
+        "position": null,
+        "profile": "许威威，现任浙江大学计算机科学与技术学院CAD&CG国家重点实验室长聘教授，教育部长江学者。曾任日本立命馆大学博士后，微软亚洲研究院网络图形组研究员, 杭州师范大学浙江省钱江学者特聘教授。主要研究方向为计算机图形学，涵盖三维重建、深度学习、物理仿真。在国内外高水平学术会议和期刊发表论文100余篇，其中ACM Transactions on Graphics, IEEE TVCG、IEEE CVPR、AAAI等CCF-A类论文40余篇。获中国和美国授权专利15项。所开发的三维注册和重建技术在高精度扫描仪及人体三维重建系统中得到应用。2014年受国家自然科学基金优秀青年基金资助，主持国家自然科学基金重点项目一项，获浙江省自然科学二等奖一项",
+        "title": "教授"
+    },
+    {
+        "name": "欧阳万里",
+        "organization": "上海人工智能实验室",
+        "photo_src": "./photos/欧阳万里.jpg",
+        "position": "AI for Science部门负责人，领军科学家",
+        "profile": "欧阳万里，上海人工智能实验室教授，负责科学智能方向。原悉尼大学电气与信息工程学院研究主任。长期从事人工智能领域的研究，其团队在ImageNet和COCO大规模检测竞赛中获多项第一。入选「人工智能全球2000位最具影响力学者榜」计算机视觉领域前100名学者。曾被评为澳大利亚计算机科学领导者奖（Computer Science in Australia Leader Award），澳大利亚研究委员会未来学者杰出青年人才计划（ARC Future Fellow，同年澳大利亚信息学部仅5人入选）和悉尼大学杰出科研校长奖。两篇文章入选paperdigest CVPR/ICCV最有影响力的文章。科研成果已转化为百余项专利，在智能移动设备、智慧城市、医疗、交通等领域产业化。获ICCV最佳审稿人，担任人工智能领域顶级期刊TPAMI和IJCV副编，CVPR2023资深领域主席，CVPR2021、ICCV2021领域主席。",
+        "title": "教授"
+    },
+    {
+        "name": "李坤",
+        "organization": "天津大学",
+        "photo_src": "./photos/李坤.jpg",
+        "position": null,
+        "profile": "李坤，天津大学教授、博士生导师。主要研究方向为三维视觉，尤其是以人为中心的智能重建与分析。以第一作者/通讯作者在国际知名期刊和会议上发表论文60余篇，获ICME'17最佳论文奖（获奖率0.8%）。相关技术实现了产业化应用。主持了国家自然科学基金优秀青年科学基金、天津市杰出青年科学基金、国家重点研发计划等项目16 项。担任天津市人工智能学会副秘书长、ACM MM 2021大会领域主席、VALSE 2022大会本地主席、CAAI TRIT等国际期刊编委等职务。",
+        "title": "教授"
+    },
+    {
+        "name": "戴玉超",
+        "organization": "西北工业大学",
+        "photo_src": "./photos/戴玉超.jpg",
+        "position": "院长助理",
+        "profile": "戴玉超，男，西北工业大学电子信息学院教授、博士生导师，国家级青年人才。研究方向为机器视觉与人工智能，聚焦复杂动态场景的三维重建与感知、深度学习和几何模型融合的稠密匹配、新型仿生视觉传感器和计算成像等问题。主持国家自然科学基金、科技部科技创新2030“新一代人工智能”重大研究计划子课题、JKW领域基金重点项目等科研项目。近年来在IEEE TPAMI、IJCV、ICCV、CVPR、NeurIPS、ECCV等国际顶级期刊和会议上发表论文70余篇，谷歌学术引用超过9200次，H因子47。先后获得IEEE CVPR 2012最佳论文奖（大陆高校30年来首次获得该奖项）、陕西省自然科学奖一等奖、中国图象图形学学学会青年科学家奖、火箭军“智箭火眼”人工智能挑战赛全国第一名、IEEE CVPR 2020最佳论文奖提名、ECCV 2020鲁棒计算机视觉挑战赛双目深度估计赛道冠军和光流估计赛道亚军等奖项。担任APSIPA杰出讲者和IEEE CVPR、IEEE ICCV、NeurIPS等国际顶级会议领域主席，APSIPA ASC 2023 TPC Co-Chairs，ACCV 2022 宣传主席，中国图象图形学报青年编委。",
+        "title": "教授"
+    },
+    {
+        "name": "郑伟诗",
+        "organization": "中山大学",
+        "photo_src": "./photos/郑伟诗.jpg",
+        "position": "计算机学院 副院长",
+        "profile": "郑伟诗教授，教育部长江学者特聘教授、英国皇家学会牛顿高级学者，中山大学计算机学院副院长、机器智能与先进计算教育部重点实验室主任。他致力研究协同与交互分析理论与方法，应用于(跨场景)追踪与行为感知处理。他在CCF-A/中科院1区/Nature子刊上发表论文150多篇，其中在IEEE T-PAMI/IJCV/SIGGRAPH/自然通讯发表20余篇。担任IEEE T-PAMI等期刊的编委，担任国际顶级学术会议ICCV、CVPR、NeurIPS等领域主席，曾担任ICME 2022程序委员会联合主席等。作为负责人，主持承担国家自然科学基金委联合基金重点项目、国家优秀青年科学基金项目、国家重点研发课题、国家自然科学基金委联合重大项目课题、广东省自然科学基金委卓越青年团队(负责人)项目等。获中国图象图形学学会自然科学奖一等奖、广东省自然科学奖一等奖、国家级教学成果(本科)奖二等奖等。",
+        "title": "教授"
+    },
+    {
+        "name": "卢策吾",
+        "organization": "上海交通大学",
+        "photo_src": "./photos/卢策吾.jpg",
+        "position": null,
+        "profile": "卢策吾，上海交通大学教授，博士生导师，2016年或海外高层次青年引进人才，2018年被《麻省理工科技评论》评为35位35岁以下中国科技精英（MIT TR35），2019年获求是杰出青年学者，2020年获上海市科技进步特等奖（第三完成人），2022年获教育部青年科学奖，IROS最佳论文之一（6/3579），2023年获机器人顶会RSS最佳系统论文提名奖（共四项），科学探索奖。以通讯作者或第一作者在《自然》，《自然·机器智能》，TPAMI等高水平期刊和会议发表论文100多篇；担任Sicence正刊，Nature子刊，Cell子刊等期刊审稿人，NeurIPS，CVPR，ICCV ，ECCV，IROS ，ICRA领域主席。研究兴趣包括具身智能，计算机视觉。",
+        "title": "教授"
+    },
+    {
+        "name": "王鹤",
+        "organization": "北京大学",
+        "photo_src": "./photos/王鹤.jpg",
+        "position": null,
+        "profile": "王鹤博士是北京大学前沿计算研究中心（CFCS）的助理教授和博士生导师。在北大，他创立并领导了具身感知与交互实验室(EPIC Lab，主页https://hughw19.github.io)，实验室立足三维视觉感知与机器人学，重点关注具身机器人在三维复杂环境中的感知和交互问题，研究目标是以可扩增地方式发展高泛化性的机器人视觉和控制系统。在北京智源人工智能研究院，他担任具身智能研究中心主任。他已在计算机视觉、机器人学和人工智能的顶级会议和期刊（CVPR/ICCV/ECCV/TRO/RAL/ICRA/NeurIPS/ICLR/AAAI等）上发表40篇工作，其论文获得ICCV2023最佳论文候选，2022年世界人工智能大会青年优秀论文（WAICYOP）奖，ICRA2023最佳操纵论文候选，Eurographics 2019最佳论文提名奖，其带领的团队获得ICLR 2021可泛化机器人物体操纵挑战赛ManiSkill无额外标注赛道冠军。他担任了CVPR2022和WACV2022的领域主席，Image and Vision Computing的副主编和诸多顶会的审稿人、程序委员。在加入北京大学之前，他于2021年从斯坦福大学获得博士学位，师从美国三院院士Leonidas. J Guibas教授，于2014年从清华大学获得学士学位。",
+        "title": "教授"
+    },
+    {
+        "name": "晏轶超",
+        "organization": "上海交通大学人工智能研究院",
+        "photo_src": "/reporter_imgs/晏轶超.webp",
+        "position": null,
+        "profile": "晏轶超，上海交通大学人工智能研究院助理教授，博士生导师。获上海交通大学电子工程系学士、博士学位，法国里昂中央理工学院硕士学位，曾担任阿联酋起源人工智能研究院研究科学家。主要研究方向为三维数字人，发表包括TPAMI、CVPR、NeurIPS在内的国际高水平论文20余篇，Google Scholar 引用超过1700次，担任TPAMI、IJCV、CVPR、ICCV等十余个国际会议与期刊审稿专家。先后主持国家自然科学基金青年项目、CCF-阿里巴巴青年科学家基金等项目5项。曾入选上海市海外高层次人才计划，获2020年度中国图象图形学学会优秀博士论文奖。",
+        "title": "助理教授"
+    },
+    {
+        "name": "李弘扬",
+        "organization": "上海人工智能实验室",
+        "photo_src": "/reporter_imgs/李弘扬.webp",
+        "position": null,
+        "profile": "李弘扬博士是上海人工智能实验室青年科学家，OpenDriveLab团队负责人，研究方向聚焦于自动驾驶和具身智能。他于2019年在香港中文大学获得博士学位，并在工业界从事多年辅助驾驶研究工作。在2021年，他在上海人工智能实验室组建OpenDriveLab团队。他提出的鸟瞰图感知工作BEVFormer，在2022年获得了百强影响力人工智能论文荣誉，并在CES 2024大会上获得了Nvidia CEO黄仁勋和Mobile Eye CEO Shashua教授的认可。他主导的端到端自动驾驶项目UniAD获得IEEE CVPR 2023最佳论文奖。UniAD在工业界和学术界都产生了巨大的影响，包括特斯拉近期推出的 FSD V12。他还是NeurIPS 2023的Notable Area Chair，IEEE的高级成员。更多详情，请访问https://opendrivelab.com。",
+        "title": "青年科学家"
+    },
+    {
+        "name": "杨佳琪",
+        "organization": "西北工业大学",
+        "photo_src": "/reporter_imgs/杨佳琪.webp",
+        "position": null,
+        "profile": "杨佳琪，西北工业大学计算机学院长聘副教授，博导。他担任空天地海一体化大数据应用技术国家工程实验室多域多维信息系统方向负责人、中国图象图形学学会三维视觉专委会（CSIG-3DV）秘书。主要研究方向为先验和数据匮乏条件下的三维配准重建，致力于提出航天应用背景下的无需训练、适配全国产化平台、轻量化的三维重建算法。近年在IEEE TPAMI、CVPR等CCF A/IEEE汇刊/中科院一区的期刊会议发表论文40余篇，指导研一学生获得CVPR 2023最佳学生论文（通讯作者），并获2023年陕西省技术发明一等奖、2023年西北工业大学研究生教学成果特等奖。主持国家自然科学基金面上、国防纵向重点课题等国家级项目和课题5项、陕西省自然基金等省部级项目3项；参与国防纵向重点项目、国自科联合基金重点等国家级项目10余项。成果常态化应用于航天领域空间碎片三维重建与分析。",
+        "title": "副教授"
+    },
+    {
+        "name": "胡瑞珍",
+        "organization": "深圳大学",
+        "photo_src": "/reporter_imgs/胡瑞珍.webp",
+        "position": null,
+        "profile": "胡瑞珍，深圳大学特聘教授，博士生导师，国家优秀青年科学基金、广东省杰出青年项目获得者。研究方向为计算机图形学，长期从事智能几何建模与处理方面的研究，发表 ACM SIGGRAPH/TOG 论文二十余篇；入选中科协青年人才托举工程；荣获亚洲图形学协会青年学者奖、全国几何设计与计算青年学者奖；担任期刊IEEE TVCG、IEEE CG&A和Computers & Graphics等国际期刊编委；担任国际会议SGP 2024、CVM 2023和SMI 2020程序委员会主席，连续多年担任SIGGRAPH等大会程序委员会委员；担任中国计算机学会计算机辅助设计与图形学专委会副秘书长、计算机图形学与混合现实在线平台(GAMES)线上活动运营负责人。",
+        "title": "特聘教授"
+    },
+    {
+        "name": "郭裕兰",
+        "organization": "国防科技大学",
+        "photo_src": "/reporter_imgs/郭裕兰.webp",
+        "position": null,
+        "profile": "Prof. Yulan Guo (郭裕兰) received the B.E. and Ph.D. degrees from National University of Defense Technology (NUDT) in 2008 and 2015, respectively. He has authored over 100 articles at highly referred journals and conferences. His research interests lie in 3D vision, low-level vision, and machine learning. He served as an associate editor for IEEE Transactions on Image Processing, IET Computer Vision, IET Image Processing, and Computers & Graphics. He also served as an area chair for CVPR 2023/2021, ICCV 2021, and ACM Multimedia 2021. He is a Senior Member of IEEE and ACM.",
+        "title": "副教授"
+    },
+    {
+        "name": "乔宇",
+        "organization": "上海人工智能实验室",
+        "photo_src": "./photos/乔宇.jpg",
+        "position": "上海人工智能实验室主任助理、领军科学家",
+        "profile": "乔宇，上海人工智能实验室主任助理、领军科学家。从事人工智能领域研究，近年来聚焦通用大模型，领导研发了国内首个广泛覆盖多种视觉任务的通用大模型“书生”，标杆任务性能国际领先。发表学术论文300余篇，累计被引五万余次，H-index为90。以第一完成人获广东省技术发明一等奖，获CVPR2023最佳论文奖、人工智能旗舰会议AAAI 2021杰出论文奖、世界人工智能大会青年论文奖等。入选国家级人才计划、科技部中青年科技创新领军人才、上海市优秀学术带头人、中科院百人计划等。",
+        "title": "教授"
+    },
+    {
+        "name": "聂礼强",
+        "organization": "哈尔滨工业大学（深圳）",
+        "photo_src": "./photos/聂礼强.png",
+        "position": null,
+        "profile": "聂礼强，IAPR Fellow，现任哈尔滨工业大学深圳校区计算机学院二级教授、博导、院长。西安交大本科，新加坡国立大学博士、博后。曾入选国家级青年人才与国家级人才计划。主持两项基金委重点项目、科技部重点研发课题、省杰青、两项千万级横向项目等。致力于多媒体内容分析与搜索的研究。发表CCF A类论文百余篇，出版中英文专著5部，授权国家发明型专利30余项，谷歌引用2.2万余次。任IEEE TKDE、IEEE TMM、IEEE TCSVT、ACM ToMM等汇刊编委；获ACM中国新星奖2019、SIGIR 2019与SIGMM 2019最佳论文提名奖、SIGMM Rising Star 2020、达摩院青橙奖2020、MIT TR35 China 2020、SIGIR 2021最佳学生论文奖、省科技进步一等奖 2021（排一）、ACM MM 2022最佳论文奖、省青年科技奖2022、AI’s 10 to Watch 2022等。成果在多家上市公司落地。",
+        "title": "教授"
+    },
+    {
+        "name": "金小刚",
+        "organization": "浙江大学",
+        "photo_src": "/reporter_imgs/金小刚.webp",
+        "position": null,
+        "profile": "博士，教授（二级），博士生导师。1989年于浙江大学计算机系获学士学位，1992年、1995年分别于浙江大学应用数学系获计算几何与图形学硕士、博士学位。自1995年至今为浙江大学CAD&CG国家重点实验室固定研究人员，1997年晋升为副研究员，2000年晋升为研究员（教授），2001年获得博士生导师资格。曾赴日本广岛大学、香港城市大学、德国国家信息研究中心(GMD) 、香港科技大学和香港中文大学进行访问和合作研究。“十三五”国家重点研发计划首席科学家，第九届霍英东青年教师基金、浙江省杰出青年基金获得者，入选教育部新世纪优秀人才支持计划、浙江省“新世纪151人才工程”。浙江大学-腾讯游戏智能图形创新技术联合实验室主任，浙江省虚拟现实产业联盟理事长，中国虚拟现实技术与产业创新平台副理事长、专家委员会委员，上海市元宇宙产业发展专家咨询委员会专家，杭州市钱江特聘专家，民进浙大委员会副主委。中国系统仿真学会理事、中国计算机学会虚拟现实与可视化专委会副主任委员、ACM中国会议委员会委员，江苏省媒体设计与软件技术重点实验室学术委员会委员。《计算机辅助设计与图形学学报》、《现代电影技术》、《Frontiers in Virtual Reality》等国内外学术期刊编委。主持和完成国家重点研发计划、国家自然科学基金、973课题、863项目、浙江省重点研发计划、浙江省自然科学基金重点项目等50多项。主要从事计算机动画、虚拟现实、计算机图形、数字化服装、数字医疗、人工智能应用等方面的研究，在影视特效、交通仿真（无人驾驶）、个性化食品打印、布料动画和虚拟试衣、创意性三维建模、隐式曲面计算、非真实感绘制、纹理设计与合成、数字化三维人脸美化、计算机艺术、牙齿隐形矫治、表情动画等理论和方法方面取得了重要进展，获授权国家发明专利40多项，发表学术论文200多篇，其中在ACM TOG (Proc. of Siggraph、Siggraph Asia)、IEEE TVCG、IEEE TIP、IEEE TASE、IEEE CGA等国际重要学术刊物上发表论文180多篇，出版合著3本，Google Scholar引用5100多次。获2008年教育部高等学校科学研究优秀成果奖自然科学奖一等奖、2017年浙江省科技进步二等奖、2023年江西省技术发明二等奖、2008年陆增镛CAD&CG高科技奖一等奖、2015年美国计算机学会服务奖(ACM Recognition of Service Award)、2000年浙江省科技进步三等奖，2020年华为菁英人才贡献奖、2023年浙江大学首届光谷成果转化奖等。获国际计算机动画学术会议CASA'2017、CASA'2018最佳论文奖，《计算机真实感图形的算法基础》获2001年国家科技图书二等奖。",
+        "title": "教授"
+    },
+    {
+        "name": "连宙辉",
+        "organization": "北京大学",
+        "photo_src": "/reporter_imgs/连宙辉.webp",
+        "position": null,
+        "profile": "北京大学王选计算机研究所副教授、博士生导师，北京大学博雅青年学者，中国文字字体设计与研究中心副主任，入选国家级青年人才计划和北京市科技新星计划。研究领域为计算机图形学、计算机视觉与人工智能，主要研究方向是图形图像生成及其应用，在领域重要期刊（TOG, TPAMI, IJCV等）和会议（SIGGRAPH/SIGGRAPH Asia, CVPR, NeurIPS等）上发表论文90余篇。多次担任NeurIPS、CVPR、ICCV等国际会议领域主席，获北京市技术发明奖二等奖（排名1）、中国专利优秀奖（排名1）、吴文俊人工智能优秀青年奖等奖励。",
+        "title": "副教授"
+    },
+    {
+        "name": "杨蛟龙",
+        "organization": "微软亚研院",
+        "photo_src": "/reporter_imgs/杨蛟龙.webp",
+        "position": null,
+        "profile": "杨蛟龙，微软亚洲研究院主管研究员，研究方向为三维计算机视觉、人脸人体建模与图像生成。2016于澳大利亚国立大学与北京理工大学获得双授博士学位后加入微软亚研，以第一作者或所指导学生为第一作者在CVPR/ICCV/ECCV/SIGGRAPH/NeurIPS/TPAMI/TVCG等顶级计算机视觉与图形学会议和期刊发表论文30余篇。多次任CVPR/ICCV/WACV等会议领域主席。获IEEE VR/TVCG 2022最佳期刊论文奖，2017年中国图形图像协会优秀博士论文奖（全国4篇）。",
+        "title": "主管研究员"
+    },
+    {
+        "name": "王宝元",
+        "organization": "小冰公司",
+        "photo_src": "/reporter_imgs/王宝元.webp",
+        "position": null,
+        "profile": null,
+        "title": "联合创始人,技术副总裁"
+    },
+    {
+        "name": "Angela Dai",
+        "organization": "慕尼黑工业大学 ",
+        "photo_src": "/reporter_imgs/Angela Dai.webp",
+        "position": null,
+        "profile": null,
+        "title": "助理教授"
+    },
+    {
+        "name": "武玉伟",
+        "organization": "北京理工大学 ",
+        "photo_src": "/reporter_imgs/武玉伟.webp",
+        "position": null,
+        "profile": " 武玉伟，长聘副教授、博士生导师。 2014年7月于北京理工大学获得计算机应用技术工学博士学位，2014年8月至2016年8月赴新加坡南洋理工大学电气电子工程学院从事博士后研究，2016年10月加入北京理工大学计算机学院。武玉伟主要从事计算机视觉和机器学习等领域的研究；在中国计算机学会（CCF）推荐A类期刊/会议或中科院JCR 1区期刊发表论文40余篇，出版教材1部；获中国人工智能学会优秀博士学位论文提名奖。作为负责人承担国家自然科学基金、北京市自然科学基金等项目。培养或合作培养学生中有4位研究生获得北京理工大学校级优秀博士学位论文或优秀硕士学位论文。",
+        "title": "副教授"
+    },
+    {
+        "name": "姚遥",
+        "organization": "南京大学 ",
+        "photo_src": "/reporter_imgs/姚遥.webp",
+        "position": null,
+        "profile": "姚遥，南京大学智能科学与技术学院副教授，2022年国家级人才计划青年项目（海外）入选者。曾任苹果公司研究员，Altizure创始团队核心成员（被苹果收购）。2015年于南京大学获学士学位，2019年于香港科技大学获博士学位。主要研究方向为三维计算机视觉，包括三维重建、可微渲染及三维内容生成。代表工作包括MVSNet系列工作、BlendedMVS数据集及NeILF系列工作，曾获2020年国际模式识别大会最佳学生论文奖。",
+        "title": "副教授"
+    },
+    {
+        "name": "廖依伊",
+        "organization": "浙江大学 ",
+        "photo_src": "/reporter_imgs/廖依伊.webp",
+        "position": null,
+        "profile": "廖依伊，浙江大学信电学院特聘研究员。2018年获浙江大学博士学位，2018年到2021年在德国马普所从事博士后研究。研究兴趣为三维视觉，包括三维生成、场景重建与理解等。在TPAMI、CVPR、ICCV、NeurIPS等顶级期刊和会议发表文章三十余篇，谷歌学术引用超3000次，其中论文被 Best of CVPR 杂志报道，于欧洲AIGameDev比赛获最具科学前景奖， 牵头搭建的大规模稠密标注数据集KITTI-360受到广泛应用且获得ESI高被引论文。担任CVPR2023、NeurIPS 2023、CVPR 2024领域主席。获浙江大学启真优秀青年学者、2023 百度 AI 华人女性青年学者。",
+        "title": "研究员"
+    },
+    {
+        "name": "彭思达",
+        "organization": "浙江大学 ",
+        "photo_src": "/reporter_imgs/彭思达.webp",
+        "position": null,
+        "profile": "彭思达，浙江大学软件学院百人计划研究员。在2023年获得浙江大学计算机科学与技术博士学位。研究方向为三维计算机视觉，代表工作为4K4D、Neural Body、PVNet。至今在TPAMI、CVPR、ICCV等期刊或会议发表三十余篇论文，谷歌学术引用2800余次，其中一篇一作论文获得CVPR最佳论文提名，在GitHub开源获得超过10000个stars。曾获得2023年世界人工智能大会云帆奖-明日之星、2022 Apple Scholar、2020年CCF-CV学术新锐奖、2021年中国CCF图形开源软件奖。",
+        "title": "研究员"
+    },
+    {
+        "name": "徐英豪",
+        "organization": "斯坦福大学 ",
+        "photo_src": "/reporter_imgs/徐英豪.webp",
+        "position": null,
+        "profile": "Yinghao Xu is a postdoc at the Stanford Computational Imaging Lab, Stanford University, working with Prof. Gordon Wetzstein. He was a Ph.D. student at the Multimedia Lab (MMLab) at The Chinese University of Hong Kong. He is deeply interested in problems lying at the intersection of Computer Graphics and Computer Vision. Currently, his research focuses on generative models and neural rendering, particularly in the area of 3D generative models.",
+        "title": null
+    },
+    {
+        "name": "郑泽荣",
+        "organization": "新畅元科技 ",
+        "photo_src": "/reporter_imgs/郑泽荣.webp",
+        "position": null,
+        "profile": "郑泽荣，杭州新畅元科技有限公司首席算法科学家。于2018年和2023年在清华大学自动化系分别获得学士学位和博士学位，师从刘烨斌教授。研究方向为三维视觉和图形学，主要关注三维人体的建模和数字化身生成。至今在TPAMI/TOG/CVPR/ICCV/ECCV/SIGGRAPH 发表论文近30篇，谷歌学术引用 1800余次",
+        "title": "首席算法科学家"
+    },
+    {
+        "name": "陈文拯",
+        "organization": "北京大学 ",
+        "photo_src": "/reporter_imgs/陈文拯.webp",
+        "position": null,
+        "profile": "陈文拯，博士毕业于多伦多大学，师从Sanja Fidler教授和Kyros Kutulakos教授。他目前在英伟达多伦多AI研究院担任研究科学家。他的研究集中在计算摄影和机器学习的交叉领域，主要探索如何利用各种成像系统的光学和物理先验知识以提高三维感知性能。他将于2024年加入北京大学王选计算机研究所担任助理教授。曾在IEEE CVPR，NeurIPS，ICLR，SIGGRAPH等领域顶级会议上发表论文十余篇，并获得四项美国专利以及ICCP 2021 Best Poster Award。",
+        "title": "助理教授"
+    },
+    {
+        "name": "孙赫",
+        "organization": "北京大学 ",
+        "photo_src": "/reporter_imgs/孙赫.webp",
+        "position": null,
+        "profile": "孙赫，北京大学未来技术学院助理教授、研究员、博士生导师，国家高层次青年人才项目获得者。他本科毕业于北京大学，博士毕业于普林斯顿大学，之后在加州理工大学从事博士后研究。他的研究方向为计算成像和自适应光学，尤其是人工智能在生物、医学、天文等科学成像问题中的应用。研究成果在国际会议和期刊上发表学术论文50余篇，并应用于事件视界望远镜黑洞成像等多个国际大型科学任务中。",
+        "title": "助理教授、研究员"
+    },
+    {
+        "name": "胡文博",
+        "organization": "腾讯 AI Lab ",
+        "photo_src": "/reporter_imgs/胡文博.webp",
+        "position": null,
+        "profile": "胡文博，腾讯AI Lab 研究员，于2022年在香港中文大学获得计算机科学与工程博士学位。研究兴趣位于计算机图形学，视觉，和人工智能的交叉点，近期研究主要集中在3D神经表示，重建，渲染，理解，以及生成。在SIGGRAPH，CVPR， ICCV等发表多篇论文，曾获ICCV 2023 Best paper finalist。",
+        "title": "研究员"
+    },
+    {
+        "name": "曾爱玲",
+        "organization": "大湾区数字经济研究院 ",
+        "photo_src": "/reporter_imgs/曾爱玲.webp",
+        "position": null,
+        "profile": "曾爱玲是粤港澳大湾区数字经济研究院（IDEA）计算机视觉与机器人研究员，负责以人为中心的视觉和多模态感知、理解、交互和生成方向，具体包括2D/3D人体姿态估计/动作识别/三维人体重建/基于LLM的动作理解，以及多模态可控的人物图片/视频/动作生成。她于2022年在香港中文大学计算机科学与工程系获得博士学位，期间在卡内基梅隆大学做访问学者。她在相关顶级学术会议CVPR、ICCV、ECCV、ICLR、AAAI等上发表了二十多篇论文，谷歌学术引用超过一千次，主导的工作在Github star累计超过八千次，其中一篇第一作者的文章评选为AAAI2023最有影响力的Top-3研究工作。",
+        "title": "研究员"
+    },
+    {
+        "name": "徐晓刚",
+        "organization": "之江&浙江大学 ",
+        "photo_src": "/reporter_imgs/徐晓刚.webp",
+        "position": null,
+        "profile": "徐晓刚目前就职于之江实验室，担任研究专家（PI），同时兼聘于浙江大学计算机科学与技术学院CAD国家重点实验室，担任新百人计划研究员，主要研究方向为多模态内容生成与修复。徐晓刚于2018年在浙江大学信息工程专业获得工学学士学位，于2022年在香港中文大学获得博士学位，师从香港中文大学IEEE Fellow贾佳亚教授。博士期间曾在国内外多家公司和研究机构实习（腾讯，思谋，微软，Adobe等）。徐晓刚在人工智能和计算机视觉领域累计发表共4篇国际顶级期刊论文（均为CCF-A论文，其中3篇为第一作者），22篇国际顶级会议论文（其中11篇为第一作者，3篇为通讯作者），多项中国发明专利（落地于阿里巴巴等公司平台），并且担任多个国际学术会议（包括CVPR, ICCV, ECCV, NeurIPS, ICLR, ICML, AAAI等）和国际学术期刊（包括TPAMI, IJCV, TCSVT, TMM, TNNLS等）的审稿人和程序委员会。主持和参与之江实验室优秀青年科学基金，浙江省鲲鹏计划，浙江省自然科学基金重大项目等。",
+        "title": "百人计划研究员"
+    },
+    {
+        "name": "施逸飞",
+        "organization": "国防科技大学 ",
+        "photo_src": "/reporter_imgs/施逸飞.webp",
+        "position": null,
+        "profile": "施逸飞，国防科技大学副教授，国防科技大学-普林斯顿大学联合培养博士。研究方向为三维视觉、计算机图形学和智能机器人。入选中国科协青年人才托举工程、中国图学学会青年托举计划、湖湘青年英才、国防科技大学高层次创新人才。发表学术论文40余篇，包括IEEE T-PAMI、ACM TOG、SIGGRAPH、CVPR、ICCV、ECCV (Oral)等顶级期刊会议第一作者论文11篇，CCF A类13篇。主持湖南省优秀青年基金、国家自然科学基金青年项目、之江国际青年人才基金等科研项目6项，参与国家自然科学基金重点项目、国家重点研发计划等重要科研项目12项，担任某重大科研任务主任设计师。获ACM长沙分会新星奖、亚洲人工智能技术大会最佳论文奖。",
+        "title": "副教授"
+    },
+    {
+        "name": "陈冠英",
+        "organization": "香港中文大学（深圳） ",
+        "photo_src": "/reporter_imgs/陈冠英.webp",
+        "position": null,
+        "profile": "陈冠英，香港中文大学（深圳）研究助理教授。他于2021年获得香港大学博士学位，在此之前，于中山大学获得本科学位。近年来，他的研究方向专注于三维视觉、神经渲染以及底层视觉。他已经在领域内一流的期刊和会议（如TPAMI/IJCV/CVPR/ECCV）上发表研究工作近20篇，其中5篇论文入选了Oral/Spotlight报告。他也入选了2021年百度全球AI华人新星百强榜单和NeurIPS 2023优秀审稿人。目前，他主持国家自然科学基金和深圳市优秀科技创新人才培养项目-青年项目",
+        "title": "助理教授"
+    },
+    {
+        "name": "杨洁",
+        "organization": "中科院计算所 ",
+        "photo_src": "/reporter_imgs/杨洁.webp",
+        "position": null,
+        "profile": "杨洁，中国科学院计算技术研究所助理研究员，博士毕业于中科院计算所，研究方向为几何处理和几何学习。相关研究成果发表在ACM SIGGRAPH\\TOG、IEEE TPAMI、IEEE TVCG、NeurIPS、CVPR等期刊和会议上。曾获得博士后创新人才支持计划、浙江大学陆增镛高科技奖等奖项。目前担任中国计算机学会计算机辅助设计与图形学专委会执行委员、中国图象图形学学会智能图形专委会委员以及中国图象图形学学会三维视觉专委会委员，并担任多个期刊会议的审稿人。",
+        "title": "助理研究员"
+    },
+    {
+        "name": "张彪",
+        "organization": "KAUST ",
+        "photo_src": "/reporter_imgs/张彪.webp",
+        "position": null,
+        "profile": "Biao Zhang obtained a Bachelor's and Master's degree from Xi'an Jiaotong University. He obtained his Ph.D. from KAUST, focusing on 3D deep learning, geometric modeling, and generative models. His research has been published in conferences and journals such as CVPR, ICLR, NeurIPS, and SIGGRAPH.",
+        "title": null
+    },
+    {
+        "name": "惠乐",
+        "organization": "西北工业大学 ",
+        "photo_src": "/reporter_imgs/惠乐.webp",
+        "position": null,
+        "profile": "研究方向聚焦于三维视觉主要包括三维场景语义与实例分割、三维目标跟踪、三维点云生成、三维重建等。主要成果发表在顶级期刊和会议:TIP、CVPR、ICCV、ECCV、NeurPs等共20篇论文，其中9篇为一作，长期担任国际人工智能顶刊和顶会:TPAMI、CVPR、ICCV、ECCV、NeurIPS等的审稿人。",
+        "title": "副教授"
+    },
+    {
+        "name": "李众",
+        "organization": "OPPO美国研究院 ",
+        "photo_src": "/reporter_imgs/李众.webp",
+        "position": null,
+        "profile": "李众博士，2019年毕业于特拉华大学，目前担任OPPO美国研究院XR算法组高级研究科学家，专注于移动AR/VR技术应用和普及，目前主要研究方向为3D计算机视觉和计算成像，主要关注沉浸式媒体体验。于TPAMI/TVCG/CVPR/ICCV/ECCV/NeurIPS/ACM MM等会议发表论文多篇并担任审稿人。",
+        "title": "高级研究员"
+    },
+    {
+        "name": "Jun-Yan Zhu",
+        "organization": "卡内基梅隆大学 ",
+        "photo_src": "/reporter_imgs/Jun-Yan Zhu.webp",
+        "position": null,
+        "profile": null,
+        "title": null
+    },
+    {
+        "name": "韩晓光",
+        "organization": "港中文深圳",
+        "photo_src": "/reporter_imgs/韩晓光.webp",
+        "position": null,
+        "profile": "韩晓光博士，现任香港中文大学（深圳）理工学院助理教授，校长青年学者。他于2017年获得香港大学计算机科学专业博士学位。其研究方向包括计算机视觉和计算机图形学等，在该方向著名国际期刊和会议已发表论文近100篇，包括顶级会议和期刊SIGGRAPH(Asia), CVPR, ICCV, ECCV, NeurIPS, ACM TOG, IEEE TPAMI等。他曾获得吴文俊人工智能优秀青年奖，广东省杰出青年基金资助，香港中文大学（深圳）青年科研奖。目前也担任CVPR2023/2024，NeurIPS 2023以及ECCV2024领域主席，同时也是IEEE TVCG 以及 Computer&Graphics 的编委。他的工作曾两次获得CCF图形开源数据集奖（DeepFashion3D和MVImgNet），曾两次入选CVPR最佳论文列表",
+        "title": "助理教授"
+    },
+    {
+        "name": "方杰明",
+        "organization": "华为",
+        "photo_src": "/reporter_imgs/方杰明.webp",
+        "position": null,
+        "profile": null,
+        "title": null
+    },
+    {
+        "name": "龙霄潇",
+        "organization": "香港大学",
+        "photo_src": "/reporter_imgs/龙霄潇.webp",
+        "position": null,
+        "profile": "龙霄潇，于2023年获得香港大学计算机博士学位，导师王文平教授，目前在香港大学博士后工作。他的研究兴趣主要包括三维生成，神经渲染，三维重建，单目几何估计。目前已在领域内一流的期刊和会议(CVPR/ECCV/ICCV/ICLR)上发表了十余篇研究工作。曾获香港政府奖学金(HKPFS)、浙江省政府奖学金等。",
+        "title": null
+    },
+    {
+        "name": "吴睿海",
+        "organization": "北京大学",
+        "photo_src": "/reporter_imgs/吴睿海.webp",
+        "position": null,
+        "profile": "吴睿海是北京大学前沿技术研究中心四年级博士生（导师：董豪老师），伊利诺伊大学香槟分校访问学者（导师：李昀烛老师），研究领域是具身智能，具体方向为机器人对物体的操控，是2024苹果奖学金的被提名人（大陆不超过9位），2023字节奖学金finalist（机器人方向共3位）。他在NeurIPS，ICLR，ICCV，ECCV，AAAI等顶级会议共发表11篇论文，其中第一作者/共同第一作者9篇，含1篇oral。这些论文研究了机器人中的铰接物体操作，双臂协作，环境中操作，通过探索调整操作，物体拼接等重要问题，被引200余次，引用单位包括mit, stanford, cmu, eth, uiuc等。",
+        "title": null
+    },
+    {
+        "name": "王倩倩",
+        "organization": "UC Berkeley",
+        "photo_src": null,
+        "position": null,
+        "profile": null,
+        "title": null
+    },
+    {
+        "name": "蔡中昂",
+        "organization": "南阳理工",
+        "photo_src": "/reporter_imgs/蔡中昂.webp",
+        "position": null,
+        "profile": "蔡中昂是新加坡南洋理工大学MMLab的博士研究生，师从刘子纬教授和吕健勤教授。他的研究兴趣包括人体动作捕捉和生成，迄今已于计算机视觉/机器学习顶会（如NeurIPS、ICLR、ICCV和ECCV等）上发表了十余篇论文并多次获得杰出审稿人的奖项。他的代表工作包括数字生命计划（Digital Life Project）、第一个动捕基模型SMPLer-X以及最早一批基于扩散模型的动作生成算法MotionDiffuse。同时，他也是商汤科技研究院的高级算法研究员，负责构建用于人体感知、重建和生成的系统和算法。",
+        "title": null
+    },
+    {
+        "name": "徐霖宁",
+        "organization": "香港中文大学",
+        "photo_src": "/reporter_imgs/徐霖宁.webp",
+        "position": null,
+        "profile": null,
+        "title": null
+    },
+    {
+        "name": "张正友",
+        "organization": "腾讯",
+        "photo_src": "/reporter_imgs/张正友.webp",
+        "position": null,
+        "profile": "腾讯首席科学家、腾讯AI Lab及腾讯Robotics X实验室主任。他是ACM Fellow（国际计算机学会院士）和IEEE Fellow（国际电气电子工程师学会院士），也是世界著名的计算机视觉和多媒体技术专家。",
+        "title": null
+    },
+    {
+        "name": "章国锋",
+        "organization": "浙江大学",
+        "photo_src": "/reporter_imgs/章国锋.webp",
+        "position": null,
+        "profile": "章国锋，浙江大学教授，博导，国家优秀青年科学基金获得者。主要从事三维视觉与增强现实方面的研究，尤其在同步定位与地图构建（SLAM）和三维重建方面取得了一系列重要成果，研制了一系列相关软件（http://www.zjucvg.net），并开源了一系列SfM/SLAM系统或关键模块算法的源代码，是OpenXRLab扩展现实开源平台（https://openxrlab.org.cn/）的主要发起人。获全国优秀博士学位论文奖、计算机学会优秀博士学位论文奖、教育部高等学校科学研究优秀成果奖科学技术进步奖一等奖（排名第4）、浙江省自然科学奖一等奖（排名第2）、浙江省技术发明奖一等奖（排名第4）、2023年度吴文俊人工智能科学技术奖科技进步奖一等奖（排名第7）以及混合现实和增强现实领域国际顶级会议ISMAR 2020唯一最佳论文奖。目前为《Virtual Reality & Intelligent Hardware》、《计算机辅助设计与图形学学报》和《应用科学学报》编委，《中国图象图形学报》青年编委，中国图象图形学学会三维视觉专委会副主任，浙江省人工智能学会增强现实分会副会长,增强现实核心技术产业联盟副理事长；曾担任VALSE第二届和第三届资深AC委员会主席，VALSE 2019、2021大会程序委员会主席，VALSE 2022大会主席，ChinaVR 2021大会程序委员会主席，CVPR 2021、2023领域主席，ISMAR 2019-2023以及VR 2021-2023程序委员会委员。",
+        "title": "教授"
+    },
+    {
+        "name": "申抒含",
+        "organization": "中科院自动化所",
+        "photo_src": "/reporter_imgs/申抒含.webp",
+        "position": null,
+        "profile": "申抒含，中国科学院自动化研究所研究员、博士生导师，中国科学院大学人工智能学院岗位教授，中科院工业视觉智能装备技术工程实验室副主任。研究领域为三维计算机视觉理论与应用，包括大规模场景三维重建、智能机器人三维环境感知、场景三维语义理解等。在计算机视觉、摄影测量、机器人等领域国际期刊和国际会议，如IEEE Trans、IJCV、ISPRS JPRS、CVPR、ICCV、ICRA、IROS等发表论文80余篇。作为项目负责人主持国家自然科学基金联合重点项目、北京市自然科学基金联合重点项目、以及各类企业研发项目20余",
+        "title": "研究员"
+    },
+    {
+        "name": "徐凯",
+        "organization": "国防科技大学",
+        "photo_src": "/reporter_imgs/徐凯.webp",
+        "position": null,
+        "profile": "徐凯，国防科技大学教授，国家杰青、优青。普林斯顿大学访问学者。研究方向为计算机图形学、机器人三维感知与交互、数字孪生等。在国际上较早开展了数据驱动三维感知、建模与交互工作，提出面向复杂三维数据的结构化感知、建模与交互理论方法系统。相关成果已成功应用于发射场三维数字孪生建设，基于AI+3D视觉的重工智能制造产线核心技术及软件系统研发等。发表TOG/TPAMI/TVCG等A类论文80余篇，其中图形学顶会SIGGRAPH论文29篇（第一作者10篇）。担任图形领域顶级国际期刊ACM Transactions on Graphics的编委，以及多个领域重要会议的主席。任中国图象图形学会三维视觉专委会副主任、中国工业与应用数学学会几何设计与计算专委会副主任。获湖南省自然科学一等奖2项（排名1和3）、中国计算机学会自然科学一等奖（排名3）、军队科技进步二等奖、军队教学成果二等奖等。",
+        "title": "教授"
+    },
+    {
+        "name": "施柏鑫",
+        "organization": "北京大学",
+        "photo_src": "/reporter_imgs/施柏鑫.webp",
+        "position": null,
+        "profile": "施柏鑫，北京大学计算机学院视频与视觉技术研究所副所长，视频与视觉技术国家工程研究中心、多媒体信息处理全国重点实验室研究员、长聘副教授、博士生导师（“博雅青年学者”）；北京智源人工智能研究院青年科学家。2013年博士毕业于日本东京大学，曾先后在麻省理工学院媒体实验室、新加坡科技设计大学、南洋理工大学、日本国立产业技术综合研究所从事研究工作。研究方向为计算摄像学与计算机视觉，发表论文200余篇（包括TPAMI论文23篇，计算机视觉三大顶级会议论文82篇）。论文获评国际计算摄像会议（ICCP）2015最佳论文提名（Best Paper - Runner Up）、国际计算机视觉会议（ICCV）2015最佳论文候选（入选IJCV特刊Best Papers from ICCV 2015），2021年获得日本大川研究助成奖。科技创新2030—“新一代人工智能”重大项目首席科学家，国家自然科学基金重点项目负责人，国家级青年人才计划入选者。担任国际顶级期刊TPAMI、IJCV编委，顶级会议CVPR、ICCV、ECCV领域主席。IEEE、CCF、CSIG高级会员，APSIPA杰出讲者。更多信息请访问“相机智能”实验室主页：http://camera.pku.edu.cn",
+        "title": "长聘副教授、研究员"
+    },
+    {
+        "name": "崔兆鹏",
+        "organization": "浙江大学",
+        "photo_src": "/reporter_imgs/崔兆鹏.webp",
+        "position": null,
+        "profile": "崔兆鹏，浙江大学计算机科学与技术学院 “百人计划”研究员、博士生导师，国家级青年人才计划入选者。2017年在加拿大西蒙弗雷泽大学获得博士学位。2017年至2020年在瑞士苏黎世联邦理工学院计算机视觉和几何实验室任高级研究员。研究方向为三维计算机视觉，主要从事基于视觉信息的三维感知和理解，具体包括三维重建、多视角立体几何、三维场景理解、同步定位与地图构建、三维内容生成等。近年来在计算机视觉、机器人、计算机图形学、机器学习等领域的顶级期刊和会议上发表论文50余篇，曾获ICRA 2020机器视觉最佳论文提名、IROS 2021安全、安保和救援机器人最佳论文提名、3DV 2024最佳论文荣誉提名。",
+        "title": "教授"
+    },
+    {
+        "name": "Matthias Niesner",
+        "organization": "慕尼黑工业大学 ",
+        "photo_src": "/reporter_imgs/Matthias Niesner.webp",
+        "position": null,
+        "profile": "慕尼黑工业大学计算机科学教授，领导视觉计算实验室，从事计算机图形和计算机视觉领域的工作。作为马克斯·普朗克视觉计算和通信中心初级研究小组项目的成员，他是斯坦福大学的客座助理教授，在 Pat Hanrahan 的实验室工作。",
+        "title": "教授"
+    },
+    {
+        "name": "杨睿刚",
+        "organization": "赢彻科技 ",
+        "photo_src": "/reporter_imgs/杨睿刚.webp",
+        "position": null,
+        "profile": null,
+        "title": null
+    },
+    {
+        "name": "陈颖聪",
+        "organization": "港科大广州 ",
+        "photo_src": "/reporter_imgs/陈颖聪.webp",
+        "position": null,
+        "profile": null,
+        "title": null
+    },
+    {
+        "name": "曹炎培",
+        "organization": "VAST ",
+        "photo_src": "/reporter_imgs/曹炎培.webp",
+        "position": null,
+        "profile": "2009-2013，清华大学计算机系本科；2013-2018，同系攻读博士，师从胡事民院士，专注计算机图形学与三维视觉。期间访问RWTH Aachen University，多次获得校级奖学金，获Pacific Graphics最佳论文奖。研究成果累计引用超过1200次。共同创立3D生成式AI开源项目threestudio，荣获2023年度CCF优秀项目奖。2017-2019，Owlii创始团队及CTO，公司被快手收购。2019-2021，快手Y-tech高级研究员。2021-2023，腾讯AI Lab和PCG ARC Lab专家研究员。2023年-今，VAST公司首席科学家。",
+        "title": "首席科学家"
+    },
+    {
+        "name": "赵恒爽",
+        "organization": "香港大学 ",
+        "photo_src": "/reporter_imgs/赵恒爽.webp",
+        "position": null,
+        "profile": null,
+        "title": "助理教授"
+    },
+    {
+        "name": "苏昊",
+        "organization": "UCSD",
+        "photo_src": "/reporter_imgs/苏昊.webp",
+        "position": null,
+        "profile": "苏昊自 2017 年 7 月起在加州大学圣地亚哥分校(UCSD)担任计算机科学与工程助理教授。围绕如何实现具身人工智能(Embodied AI)的目标，他的研究课题涉及计算机视觉、图形学、机器人学、机器学习等领域。据谷歌学术显示，他的工作已被引用超过 60000 次。他曾担任 TOG、SIGGRAPH、CVPR、ECCV、ICCV、ICRA、IROS 和ICLR委员会的领域主席、副主编或其他相当职位，将担任CVPR 2025 program chair。",
+        "title": "助理教授"
+    },
+    {
+        "name": "黄其兴",
+        "organization": "UT-Austin ",
+        "photo_src": "/reporter_imgs/黄其兴.webp",
+        "position": null,
+        "profile": "Qixing Huang is an associate professor with tenure at the computer science department of the University of Texas at Austin. His research sits at the intersection of graphics, geometry, optimization, vision, and machine learning. He has published more than 90 papers at leading venues across these areas. His research has received several awards, including multiple best paper awards, the best dataset award at Symposium on Geometry Processing 2018, IJCAI 2019 early career spotlight, and 2021 NSF Career award. He has also served as area chairs of CVPR and ICCV and technical papers committees of SIGGRAPH and SIGGRAPH Asia, and co-chaired Symposium on Geometry Processing 2020.",
+        "title": "副教授"
+    },
+    {
+        "name": "陈宝权",
+        "organization": "北京大学 ",
+        "photo_src": "/reporter_imgs/陈宝权.webp",
+        "position": null,
+        "profile": "北京大学博雅特聘教授，CSIG三维视觉专委会主任，北京大学智能学院副院长。IEEE Fellow、中国计算机学会会士。研究领域为计算机图形学、计算机视觉与数据可视化；发表国际期刊和会议论文近200篇，其中40余篇发表于ACM Transactions on Graphics （TOG）；已获得30多项发明专利授权，其中5项美国专利。曾任ACM TOG和IEEE TVCG等期刊编委，IEEE Vis 2005、ACM SIGGRAPH Asia 2014、3DV2017大会主席。获2003年美国国家科学基金杰出青年奖（NSF CAREER Award）和2014年中国计算机图形学杰出奖。曾任973项目“城市大数据计算理论与方法”首席科学家，兼任北京电影学院未来影像高精尖创新中心首席科学家。",
+        "title": "教授"
+    },
+    {
+        "name": "虞晶怡",
+        "organization": "上海科技大学 ",
+        "photo_src": "/reporter_imgs/虞晶怡.webp",
+        "position": null,
+        "profile": "虞晶怡教授于2000年获美国加州理工学院（Caltech）双学士学位，2005年获美国麻省理工学院（MIT）博士学位。现任上海科技大学副教务长、信息科学与技术学院教授、执行院长，是上海人工智能咨询委员会委员、叠境数字创始人。虞教授长期从事计算机视觉、计算成像、计算机图形学、生物信息学等领域的研究工作，已发表140多篇学术论文, 其中超90篇发表于国际会议CVPR/ICCV/ECCV和期刊TPAMI，已获得20多项PCT发明专利授权。虞教授是美国国家科学基金杰出青年奖（NSF CAREER Award）获得者。他曾组织多个计算机视觉大会，担任IEEE TPAMI、IEEE TIP等多个顶级期刊编委。虞教授担任ICCP 2016、ICPR 2020、WACV 2021以及人工智能顶会IEEE CVPR 2021和ICCV 2025的程序主席。由于他在计算机视觉领域的贡献，他入选IEEE Fellow。",
+        "title": "教授、执行院长"
+    },
+    {
+        "name": "Daniel Cohen-Or",
+        "organization": "特拉维夫大学",
+        "photo_src": "/reporter_imgs/Daniel Cohen-Or.webp",
+        "position": null,
+        "profile": "以色列特拉维夫大学教授（ACM Fellow），主要研究方向为计算机图形学、视觉计算和几何建模，目前专注于生成模型。获2005年Eurographics杰出技术贡献奖、2018年ACM SIGGRAPH计算机图形学成就奖、2020年Eurographics杰出职业奖、2012年中华人民共和国友谊奖。",
+        "title": "教授"
+    },
+    {
+        "name": "林倞",
+        "organization": "中山大学",
+        "photo_src": "/reporter_imgs/林倞.webp",
+        "position": null,
+        "profile": "林倞，鹏城实验室具身智能研究所所长，中山大学计算机学院教授，国家杰出青年基金获得者, IEEE/IAPR Fellow。曾任商汤科技研究院执行院长。长期从事多模态人工智能、机器学习等领域的应用基础研究，承担国家2030科技创新重大项目，入选国家万人计划。在国际顶级学术期刊和会议发表论文300余篇，论文被引用3万余次(谷歌学术统计)，多次入选全球高被引学者榜单；多次获得权威期刊及会议的最佳论文奖(Pattern Recognition，ICCV, ICME等)；获中国图像图形学会科学技术一等奖、吴文俊人工智能自然科学奖，省级自然科学一等奖；指导博士生获得CCF优秀博士论文奖、ACM China优秀博士论文奖及CAAI优秀博士论文奖。",
+        "title": "教授"
+    },
+    {
+        "name": "弋力",
+        "organization": "清华大学",
+        "photo_src": "/reporter_imgs/弋力.webp",
+        "position": null,
+        "profile": "弋力博士，现任清华大学交叉信息研究院助理教授。他在斯坦福大学取得博士学位，导师为Leonidas J. Guibas教授，毕业后在谷歌研究院任研究科学家。在此之前，他在清华大学电子工程系取得了学士学位。他近期的研究兴趣涵盖三维视觉和具身人工智能，他的研究目标是使智能机器人具备理解三维世界并与之互动的能力。他在计算机视觉、计算机图形学以及机器学习领域的顶级会议发表论文六十余篇，并担任CVPR 2022-2024、IJCAI 2023、NeurIPS 2023领域主席。他的工作在领域内得到广泛关注，引用数19000+，代表作品包括ShapeNet Part，光谱图CNN，PointNet++等。",
+        "title": "助理教授"
+    },
+    {
+        "name": "许华哲",
+        "organization": "清华大学",
+        "photo_src": "/reporter_imgs/许华哲.webp",
+        "position": null,
+        "profile": null,
+        "title": "助理教授"
+    },
+    {
+        "name": "蒋树强",
+        "organization": "中科院计算所",
+        "photo_src": "/reporter_imgs/蒋树强.webp",
+        "position": null,
+        "profile": "1977年出生，2006年3月在中国科学院计算技术研究所博士毕业后一直留所工作至今，现任中科院计算所研究员，博士生导师，中科院特聘研究员，中国科学院大学岗位教授，中科院智能信息处理重点实验室副主任，国家杰出青年科学基金获得者；先后主持承担科技创新2030-“新一代人工智能”重大项目、国家自然科学基金等项目20余项，任IEEE与CCF高级会员，ACM会员，国际期刊ACM ToMM编委，ACM SIGMM中国分会副主席、CCF多媒体专委会秘书长、CCF专委工委委员、IEEE CASS北京分会副主席。主要研究方向是图像/视频等多媒体内容分析信息的分析与多模态智能技术，在IEEE/ACM Transactions和CCF-A类会议上发表论文60余篇，获授权专利10余项，研发的成果应用或转移到多个企事业单位；先后获中国计算机学会科学技术奖、中国科学院青年科学家国际合作奖、CSIG自然科学二等奖、吴文俊人工智能自然科学一等奖、北京市科技进步二等奖。",
+        "title": "研究员"
+    },
+    {
+        "name": " 权龙 Long Quan",
+        "organization": "香港科技大学",
+        "photo_src": "/reporter_imgs/权龙.webp",
+        "position": null,
+        "profile": "香港科技大学计算机科学与工程系的终身正教授，是具有国际声誉的计算机视觉与图形学专家。他的科研兴趣主要专注于计算机视觉、图形学、人机交互、统计学习、模式识别和机器人等方向的研究工作，是计算机视觉和图形学研究的世界级专家。他所提出的相机标定六点算法为计算机三维视觉发展奠定了重要的基础。",
+        "title": "教授"
+    },
+    {
+        "name": "童欣",
+        "organization": "微软亚研院",
+        "photo_src": "/reporter_imgs/童欣.webp",
+        "position": null,
+        "profile": null,
+        "title": "首席研究员"
+    },
+    {
+        "name": "穆亚东",
+        "organization": "北京大学",
+        "photo_src": "/reporter_imgs/穆亚东.webp",
+        "position": null,
+        "profile": "穆亚东，北京大学研究员、长聘副教授、博士生导师、博雅青年学者，新闻出版智能媒体技术重点实验室副主任，先后在北京大学获得理学学士和理学博士学位。曾在新加坡国立大学、美国哥伦比亚大学、华为香港诺亚方舟实验室、美国电话电报公司研究院（AT&T Labs）担任研究职位，主要研究领域为计算机视觉和机器人学，入选国家人才计划，在国际主流会议和期刊发表论文100余篇，其中在CVPR等中国计算机学会论文推荐列表A类会议和T-PAMI等IEEE汇刊发表论文超过70篇，申请PCT、美国或中国专利30余项。获得陕西省自然科学一等奖、国际会议SIGIR最佳论文提名奖、北京大学京东方奖教金、杨王院士奖教金等。担任多媒体领域旗舰期刊IEEE Transactions on Multimedia的编委，多次担任人工智能领域顶级会议（如CVPR、ACM Multimedia）的领域主席。研究方向包括多模态基础模型、视觉语言学习、机械臂抓取和操作、视频语义分析技术等。近期代表工作包括视觉大模型ECLIP、视觉语言大模型LaVIT和基于Koopman控制理论的视觉表征等。",
+        "title": "研究员"
+    },
+    {
+        "name": "薄列峰",
+        "organization": "阿里巴巴",
+        "photo_src": "/reporter_imgs/薄列峰.webp",
+        "position": null,
+        "profile": "薄列峰博士2022年8月加入阿里巴巴，担任通义实验室XR团队负责人，致力于研究数字人、数字孪生、多模态大模型等前沿技术。他于2007年获西安电子科技大学博士学位，2007-2012年期间先后在芝加哥大学丰田研究院和华盛顿大学从事博士后研究。薄博士于2013年8月加入亚马逊，担任Principal Applied Scientist，负责Amazon Go无人零售店AI算法的研发与落地。他于2017年10月加入京东集团，担任京东科技AI实验室首席科学家。   薄博士在Neurips、CVPR、ICCV、ICML、AAAI、ICRA、IJCV等国际顶级会议和期刊共计发表论文100余篇，论文被引用超13000次，H指数53，其中博士论文荣获全国百篇优秀博士论文奖，RGB-D物体识别论文荣获机器人顶级会议ICRA最佳计算机视觉论文奖，担任过多个顶级人工智能会议程序委员会委员。",
+        "title": "阿里巴巴通义实验室XR实验室负责人"
+    },
+    {
+        "name": "杨易",
+        "organization": "浙江大学",
+        "photo_src": "/reporter_imgs/杨易.webp",
+        "position": null,
+        "profile": "2021年年底全职加入浙江大学，现为浙江大学求是讲席教授。研究方向为人工智能及其应用。",
+        "title": "教授"
+    },
+    {
+        "name": "单瀛",
+        "organization": "腾讯",
+        "photo_src": "/reporter_imgs/单瀛.webp",
+        "position": null,
+        "profile": null,
+        "title": "腾讯PCG应用研究中心主任"
+    },
+    {
+        "name": "Zheng Mike，Shou",
+        "organization": "新加坡国立",
+        "photo_src": "/reporter_imgs/Zheng Mike，Shou.webp",
+        "position": null,
+        "profile": null,
+        "title": "终身制助理教授"
+    },
+    {
+        "name": "罗平",
+        "organization": "香港大学",
+        "photo_src": "/reporter_imgs/罗平.webp",
+        "position": null,
+        "profile": null,
+        "title": "助理教授"
+    },
+    {
+        "name": "陈启锋",
+        "organization": "港科大",
+        "photo_src": "/reporter_imgs/陈启锋.webp",
+        "position": null,
+        "profile": null,
+        "title": null
+    },
+    {
+        "name": "张盛平",
+        "organization": "哈工大威海",
+        "photo_src": "/reporter_imgs/张盛平.webp",
+        "position": null,
+        "profile": "张盛平，哈尔滨工业大学威海校区计算机科学与技术学院长聘教授/博士生导师、青年科学家工作室学术带头人，美国布朗大学博士后、香港浸会大学博士后、美国加州大学伯克利分校访问学者，先后入选国家级青年人才计划、山东省泰山学者青年专家、哈尔滨工业大学青年拔尖人才计划（副教授、教授）、人社部香江学者人才计划。主要研究方向为3D视觉、虚拟数字人等。主持国家自然科学基金4项、华为公司项目10余项。研究成果获2019年度黑龙江省自然科学二等奖（排名第一）。已发表学术论文80余篇，包括PNAS、IEEE T-PAMI、IJCV、ICML、CVPR、ICCV等",
+        "title": "长聘教授"
+    },
+    {
+        "name": "高林",
+        "organization": "中科院计算所",
+        "photo_src": "/reporter_imgs/高林.webp",
+        "position": null,
+        "profile": null,
+        "title": null
+    },
+    {
+        "name": "齐晓娟",
+        "organization": "香港大学",
+        "photo_src": "/reporter_imgs/齐晓娟.webp",
+        "position": null,
+        "profile": null,
+        "title": "助理教授"
+    },
+    {
+        "name": "许岚",
+        "organization": "上海科技大学",
+        "photo_src": "/reporter_imgs/许岚.webp",
+        "position": null,
+        "profile": "研究方向聚焦于计算机视觉、计算机图形学和计算摄像学，在光场智能重建、动态神经渲染和虚拟数字人等研究方面积累了丰富的经验和成果。近年来在CVPR、SIGGRAPH、IEEE TPAMI等顶级刊物发表数十篇文章，并多次担任国际顶级会议CVPR、ICCV、AAAI等的领域主席。",
+        "title": "助理教授、研究员"
+    },
+    {
+        "name": "吴毅红",
+        "organization": "自动化所",
+        "photo_src": "/reporter_imgs/吴毅红.webp",
+        "position": null,
+        "profile": null,
+        "title": null
+    },
+    {
+        "name": "黄思远",
+        "organization": "北京通用人工智能研究院",
+        "photo_src": "/reporter_imgs/黄思远.webp",
+        "position": null,
+        "profile": null,
+        "title": null
+    },
+    {
+        "name": "马惠敏",
+        "organization": "北京科技大学",
+        "photo_src": "/reporter_imgs/马惠敏.webp",
+        "position": null,
+        "profile": null,
+        "title": null
+    },
+    {
+        "name": "陶文兵",
+        "organization": "华中科技大学",
+        "photo_src": "/reporter_imgs/陶文兵.webp",
+        "position": null,
+        "profile": "陶文兵，华中科技大学人工智能与自动化学院及多谱智能信息处理技术全国重点实验室教授/博士生导师，现担任华中科技大学与杭州市临平区共建的杭州人工智能研究院首任执行院长筹备研究院。曾连续6年入选爱思唯尔中国高被引学者，以第一作者和通讯作者在TPAMI, IJCV, TIP, TVCG, ICCV, CVPR, NeurIPS, AAAI等期刊和会议上发表论文100余篇，授权发明专利50余项，多项研究成果已在企业成功转化应用，产生重大经济价值。近年来研究工作主要集中在以下几个方面：1）提出一系列多视图重建算法在公开数据集上评测取得领先的性能，为工业界广泛采用（代码已开源）；2）提出几种深度学习表面重建算法解决了大规模点云表面重建问题，并取得与传统几何算法相当的性能（代码已开源）；3）在点云配准领域提出若干性能SOTA的算法（代码已开源）。",
+        "title": "教授"
+    },
+    {
+        "name": "戴勃",
+        "organization": "上海 AI Lab",
+        "photo_src": "/reporter_imgs/戴勃.webp",
+        "position": null,
+        "profile": "戴勃，上海人工智能实验室青年科学家，内容生成与数字化研究团队负责人，上海交通大学电院电子工程系兼职博导。曾任新加坡南洋理工大学研究助理教授，研究领域为基于人工智能技术的虚拟内容生产及其应用，目前在人工智能顶级会议和期刊发表相关论文共计50余篇，谷歌引用数5262。近期代表研究工作书生天际LandMark，以及AnimateDiff。",
+        "title": "青年科学家"
+    },
+    {
+        "name": "王程",
+        "organization": "厦门大学",
+        "photo_src": "/reporter_imgs/王程.webp",
+        "position": null,
+        "profile": "2002年在国防科学技术大学获得信息与通信工程博士，并留校工作10年，2011年加入厦门大学。现为厦门大学南强重点岗位教授，国家级人才计划基金获得者，IET 会士。福建省智慧城市感知与计算重点实验室主任，数字福建城市交通大数据研究所所长。研究兴趣包括计算机三维视觉，激光雷达数据处理，增强现实与虚拟现实，空间大数据分析，智慧城市。他发表了200余篇论文，包括ISPRS-JPRS，IEEE TGRS IEEE TITS, PR, CVPR，IJCAI，AAAI等期刊和会议。他还是ISPRS的多传感器集成与融合工作组的主席，中国计算机学会 YOCSEF 厦门分论坛 (创始)主席，中国图象图形学会常务理事，IEEE GRSL、ISPRS JRPS等期刊的副主编和客座编辑。作为组委会主席组织过CVRS2012,MMT-SS 2015，ChinaLiDAR2019 等多个学术会议和学术交流活动。曾经获得国际摄影测量与遥感学会（ISPRS）Giuseppe Inghilleri Award，国际移动测量技术大会最佳创新奖，获得省部级科技进步一等奖等奖励5项。",
+        "title": "教授"
+    },
+    {
+        "name": "李战斌",
+        "organization": "郎歌科技",
+        "photo_src": null,
+        "position": null,
+        "profile": null,
+        "title": null
+    }
+
+]

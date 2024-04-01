@@ -1,0 +1,422 @@
+[
+    {
+        "forum": "三维视觉论坛",
+        "organizer": "杨佳琪", 
+        "rank": 20.0
+    },
+    {
+        "forum": "三维视觉论坛",
+        "organizer": "胡庆拥",
+        "rank": 30.0
+    },
+    {
+        "forum": "三维视觉论坛",
+        "organizer": "郭裕兰",
+        "rank": 10.0
+    },
+    {
+        "forum": "人工智能伦理与治理论坛",
+        "organizer": "段伟文",
+        "rank": 30.0
+    },
+    {
+        "forum": "人工智能伦理与治理论坛",
+        "organizer": "王国豫",
+        "rank": 20.0
+    },
+    {
+        "forum": "人工智能伦理与治理论坛",
+        "organizer": "邹月娴",
+        "rank": 10.0
+    },
+    {
+        "forum": "以人为中心的视觉计算论坛",
+        "organizer": "丁长兴",
+        "rank": 10.0
+    },
+    {
+        "forum": "以人为中心的视觉计算论坛",
+        "organizer": "刘偲",
+        "rank": 30.0
+    },
+    {
+        "forum": "以人为中心的视觉计算论坛",
+        "organizer": "舒祥波",
+        "rank": 20.0
+    },
+    {
+        "forum": "优博论坛",
+        "organizer": "丛润民",
+        "rank": 20.0
+    },
+    {
+        "forum": "优博论坛",
+        "organizer": "刘鑫辰",
+        "rank": 50.0
+    },
+    {
+        "forum": "优博论坛",
+        "organizer": "张鼎文",
+        "rank": 30.0
+    },
+    {
+        "forum": "优博论坛",
+        "organizer": "董燕妮",
+        "rank": 40.0
+    },
+    {
+        "forum": "优博论坛",
+        "organizer": "马超",
+        "rank": 10.0
+    },
+    {
+        "forum": "医学基准大模型",
+        "organizer": "唐晓颖",
+        "rank": 20.0
+    },
+    {
+        "forum": "医学基准大模型",
+        "organizer": "王珊珊",
+        "rank": 10.0
+    },
+    {
+        "forum": "可信人工智能论坛",
+        "organizer": "任文琦",
+        "rank": 20.0
+    },
+    {
+        "forum": "可信人工智能论坛",
+        "organizer": "吴保元",
+        "rank": 40.0
+    },
+    {
+        "forum": "可信人工智能论坛",
+        "organizer": "赵才荣",
+        "rank": 10.0
+    },
+    {
+        "forum": "可信人工智能论坛",
+        "organizer": "邓伟洪",
+        "rank": 30.0
+    },
+    {
+        "forum": "图像分割论坛",
+        "organizer": "周天飞",
+        "rank": 20.0
+    },
+    {
+        "forum": "图像分割论坛",
+        "organizer": "王文冠",
+        "rank": 10.0
+    },
+    {
+        "forum": "垂直领域大模型论坛",
+        "organizer": "刘禹良",
+        "rank": 20.0
+    },
+    {
+        "forum": "垂直领域大模型论坛",
+        "organizer": "金连文",
+        "rank": 10.0
+    },
+    {
+        "forum": "多模态计算论坛",
+        "organizer": "常晓军",
+        "rank": 20.0
+    },
+    {
+        "forum": "多模态计算论坛",
+        "organizer": "朱磊",
+        "rank": 30.0
+    },
+    {
+        "forum": "多模态计算论坛",
+        "organizer": "梁小丹",
+        "rank": 10.0
+    },
+    {
+        "forum": "女青年科学家论坛",
+        "organizer": "董晶",
+        "rank": 10.0
+    },
+    {
+        "forum": "女青年科学家论坛",
+        "organizer": "邹月娴",
+        "rank": 20.0
+    },
+    {
+        "forum": "扩散模型与内容生成",
+        "organizer": "晏轶超",
+        "rank": 20.0
+    },
+    {
+        "forum": "扩散模型与内容生成",
+        "organizer": "赵才荣",
+        "rank": 10.0
+    },
+    {
+        "forum": "无人系统论坛",
+        "organizer": "吴庆耀",
+        "rank": 50.0
+    },
+    {
+        "forum": "智能视频分析论坛",
+        "organizer": "曾润浩",
+        "rank": 20.0
+    },
+    {
+        "forum": "智能视频分析论坛",
+        "organizer": "王利民",
+        "rank": 10.0
+    },
+    {
+        "forum": "机器人与具身智能论坛",
+        "organizer": "姬艳丽",
+        "rank": 10.0
+    },
+    {
+        "forum": "机器人与具身智能论坛",
+        "organizer": "张青",
+        "rank": 40.0
+    },
+    {
+        "forum": "机器人与具身智能论坛",
+        "organizer": "徐雪妙",
+        "rank": 30.0
+    },
+    {
+        "forum": "机器人与具身智能论坛",
+        "organizer": "杨鑫",
+        "rank": 20.0
+    },
+    {
+        "forum": "生成式人工智能论坛",
+        "organizer": "赫然",
+        "rank": 10.0
+    },
+    {
+        "forum": "生物医学影像论坛",
+        "organizer": "唐晓颖",
+        "rank": 10.0
+    },
+    {
+        "forum": "生物医学影像论坛",
+        "organizer": "王珊珊",
+        "rank": 20.0
+    },
+    {
+        "forum": "目标检测与跟踪论坛",
+        "organizer": "丛润民",
+        "rank": 10.0
+    },
+    {
+        "forum": "研究生论坛",
+        "organizer": "徐雪妙",
+        "rank": 50.0
+    },
+    {
+        "forum": "神经网络架构论坛",
+        "organizer": "纪荣嵘",
+        "rank": 10.0
+    },
+    {
+        "forum": "神经网络架构论坛",
+        "organizer": "郑侠武",
+        "rank": 20.0
+    },
+    {
+        "forum": "脑科学与类脑智能论坛",
+        "organizer": "俞祝良",
+        "rank": 20.0
+    },
+    {
+        "forum": "脑科学与类脑智能论坛",
+        "organizer": "梁臻",
+        "rank": 10.0
+    },
+    {
+        "forum": "自动驾驶论坛",
+        "organizer": "严骏驰",
+        "rank": 30.0
+    },
+    {
+        "forum": "自动驾驶论坛",
+        "organizer": "李弘扬",
+        "rank": 10.0
+    },
+    {
+        "forum": "自动驾驶论坛",
+        "organizer": "薛建儒",
+        "rank": 20.0
+    },
+    {
+        "forum": "自动驾驶论坛",
+        "organizer": "赵昊",
+        "rank": 40.0
+    },
+    {
+        "forum": "虚拟数字人论坛",
+        "organizer": "张举勇",
+        "rank": 10.0
+    },
+    {
+        "forum": "虚拟数字人论坛",
+        "organizer": "谭明奎",
+        "rank": 30.0
+    },
+    {
+        "forum": "虚拟数字人论坛",
+        "organizer": "黎汉汇",
+        "rank": 20.0
+    },
+    {
+        "forum": "计算机图形学论坛",
+        "organizer": "周晓巍",
+        "rank": 20.0
+    },
+    {
+        "forum": "计算机图形学论坛",
+        "organizer": "胡瑞珍",
+        "rank": 10.0
+    },
+    {
+        "forum": "通用与视觉大模型论坛",
+        "organizer": "贾伟",
+        "rank": 10.0
+    },
+    {
+        "forum": "遥感影像处理论坛",
+        "organizer": "史振威",
+        "rank": 20.0
+    },
+    {
+        "forum": "遥感影像处理论坛",
+        "organizer": "孙显",
+        "rank": 40.0
+    },
+    {
+        "forum": "遥感影像处理论坛",
+        "organizer": "方乐缘",
+        "rank": 10.0
+    },
+    {
+        "forum": "遥感影像处理论坛",
+        "organizer": "杜博",
+        "rank": 30.0
+    },
+    {
+        "forum": "遥感影像处理论坛",
+        "organizer": "程塨",
+        "rank": 50.0
+    },
+    {
+        "forum": "青年学者服务论坛1",
+        "organizer": "任文琦",
+        "rank": 20.0
+    },
+    {
+        "forum": "青年学者服务论坛1",
+        "organizer": "侯淇彬",
+        "rank": 50.0
+    },
+    {
+        "forum": "青年学者服务论坛1",
+        "organizer": "胡鹏",
+        "rank": 30.0
+    },
+    {
+        "forum": "青年学者服务论坛1",
+        "organizer": "舒祥波",
+        "rank": 10.0
+    },
+    {
+        "forum": "青年学者服务论坛1",
+        "organizer": "张平平",
+        "rank": 40.0
+    },
+    {
+        "forum": "青年学者服务论坛2",
+        "organizer": "任文琦",
+        "rank": 20.0
+    },
+    {
+        "forum": "青年学者服务论坛2",
+        "organizer": "侯淇彬",
+        "rank": 50.0
+    },
+    {
+        "forum": "青年学者服务论坛2",
+        "organizer": "胡鹏",
+        "rank": 30.0
+    },
+    {
+        "forum": "青年学者服务论坛2",
+        "organizer": "舒祥波",
+        "rank": 10.0
+    },
+    {
+        "forum": "青年学者服务论坛2",
+        "organizer": "张平平",
+        "rank": 40.0
+    },
+    {
+        "forum": "青托沙龙",
+        "organizer": "元辉",
+        "rank": 20.0
+    },
+    {
+        "forum": "青托沙龙",
+        "organizer": "魏秀参",
+        "rank": 10.0
+    },
+    {
+        "forum": "高性能AI计算与AIoT论坛",
+        "organizer": "陈岑",
+        "rank": 10.0
+    },
+    {
+        "forum": "工业视觉论坛",
+        "organizer": "林宙辰",
+        "rank": 10.0
+    },
+    {
+        "forum": "工业视觉论坛",
+        "organizer": "王奕森",
+        "rank": 20.0
+    },
+    {
+        "forum": "目标检测与跟踪论坛",
+        "organizer": "李华",
+        "rank": 20.0
+    },
+    {
+        "forum": "高性能AI计算与AIoT论坛",
+        "organizer": "吴庆耀",
+        "rank": 20.0
+    },
+    {
+        "forum": "生成式人工智能论坛",
+        "organizer": "李冠彬",
+        "rank": 20.0
+    },
+    {
+        "forum": "通用与视觉大模型论坛",
+        "organizer": "谭明奎",
+        "rank": 20.0
+    },
+    {
+        "forum": "通用与视觉大模型论坛",
+        "organizer": "谢凌曦",
+        "rank": 30.0
+    },
+    {
+        "forum": "通用与视觉大模型论坛",
+        "organizer": "代季峰",
+        "rank": 40.0
+    },
+    {
+        "forum": "通用与视觉大模型论坛",
+        "organizer": "王鑫龙",
+        "rank": 50.0
+    }
+]

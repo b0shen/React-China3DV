@@ -1,0 +1,312 @@
+[
+    {
+        "date": "4月19日",
+        "group": null,
+        "hide": 0,
+        "linked": 1,
+        "loc": "广东厅1",
+        "name": "主旨报告1 张正友 Zhengyou Zhang(腾讯)",
+        "session": "上午",
+        "time": "08:30-09:15"
+    },
+    {
+        "date": "4月19日",
+        "group": null,
+        "hide": 0,
+        "linked": 1,
+        "loc": "广东厅1",
+        "name": "主旨报告2 Matthias Niesner(慕尼黑工业大学)",
+        "session": "上午",
+        "time": "09:15-10:00"
+    },
+    {
+        "date": "4月19日",
+        "group": null,
+        "hide": 0,
+        "linked": 1,
+        "loc": "广东厅1",
+        "name": "茶歇",
+        "session": "上午",
+        "time": "10:00-10:30"
+    },
+    {
+        "date": "4月19日",
+        "group": "论坛名录",
+        "hide": 0,
+        "linked": 1,
+        "loc": null,
+        "name": "数字人论坛",
+        "session": "上午",
+        "time": "10:30-12:20"
+    },
+    {
+        "date": "4月19日",
+        "group": null,
+        "hide": 0,
+        "linked": 1,
+        "loc": "广东厅1",
+        "name": "午餐 Poster 面对面",
+        "session": "下午",
+        "time": "12:20-14:30"
+    },
+    {
+        "date": "4月19日",
+        "group": "论坛名录",
+        "hide": 0,
+        "linked": 1,
+        "loc": "广东厅1",
+        "name": "SLAM与空间计算论坛",
+        "session": "下午",
+        "time": "14:30-15:50"
+    },
+    {
+        "date": "4月19日",
+        "group": null,
+        "hide": 0,
+        "linked": 1,
+        "loc": "广东厅1",
+        "name": "Poster 面对面",
+        "session": "下午",
+        "time": "15:50-16:40"
+    },
+    {
+        "date": "4月19日",
+        "group": "论坛名录",
+        "hide": 0,
+        "linked": 1,
+        "loc": "广东厅2",
+        "name": "青年新星论坛",
+        "session": "下午",
+        "time": "16:40-18:30"
+    },
+    {
+        "date": "4月19日",
+        "group": null,
+        "hide": 0,
+        "linked": 1,
+        "loc": "广东厅2",
+        "name": "晚餐",
+        "session": "下午",
+        "time": "18:30-19:30"
+    },
+    {
+        "date": "4月19日",
+        "group": "论坛名录",
+        "hide": 0,
+        "linked": 1,
+        "loc": "广东厅2",
+        "name": "远程特邀报告",
+        "session": "下午",
+        "time": "19:30-20:00"
+    },
+    {
+        "date": "4月19日",
+        "group": "论坛名录",
+        "hide": 0,
+        "linked": 1,
+        "loc": "广东厅3",
+        "name": "学生论坛",
+        "session": "下午",
+        "time": "20:00-22:00"
+    },
+    {
+        "date": "",
+        "group": null,
+        "hide": 0,
+        "linked": 0,
+        "loc": "广东厅",
+        "name": "大会报告",
+        "session": "上午",
+        "time": "08:30-12:15"
+    },
+    {
+        "date": "4月20日",
+        "group": null,
+        "hide": 0,
+        "linked": 1,
+        "loc": "广东厅1",
+        "name": "开幕式",
+        "session": "上午",
+        "time": "08:30-09:00"
+    },
+    {
+        "date": "4月20日",
+        "group": null,
+        "hide": 0,
+        "linked": 1,
+        "loc": "广东厅1",
+        "name": "主旨报告3 Daniel Cohen-Or (特拉维夫大学)",
+        "session": "上午",
+        "time": "09:15-10:00"
+    },
+    {
+        "date": "4月20日",
+        "group": null,
+        "hide": 0,
+        "linked": 1,
+        "loc": "广东厅1",
+        "name": "合影 茶歇 Poster",
+        "session": "上午",
+        "time": "09:45-10:20"
+    },
+    {
+        "date": "4月20日",
+        "group": "论坛名录",
+        "hide": 0,
+        "linked": 1,
+        "loc": "广东厅1",
+        "name": "3DV与世界模型战略论坛",
+        "session": "上午",
+        "time": "10:20-12:10"
+    },
+    {
+        "date": "4月20日",
+        "group": null,
+        "hide": 0,
+        "linked": 1,
+        "loc": "广东厅1",
+        "name": "午餐 Poster 面对面",
+        "session": "下午",
+        "time": "12:10-13:40"
+    },
+    {
+        "date": "4月20日",
+        "group": "论坛名录",
+        "hide": 0,
+        "linked": 1,
+        "loc": "广东厅2",
+        "name": "三维大模型论坛",
+        "session": "下午",
+        "time": "13:40-15:30"
+    },
+    {
+        "date": "4月20日",
+        "group": null,
+        "hide": 0,
+        "linked": 1,
+        "loc": "广东厅1",
+        "name": "茶歇 Poster 面对面",
+        "session": "下午",
+        "time": "15:30-16:10"
+    },
+    {
+        "date": "4月20日",
+        "group": "论坛名录",
+        "hide": 0,
+        "linked": 1,
+        "loc": "广东厅3",
+        "name": "具身智能论坛",
+        "session": "下午",
+        "time": "16:10-18:00"
+    },
+    {
+        "date": "4月20日",
+        "group": null,
+        "hide": 0,
+        "linked": 1,
+        "loc": "广东厅1",
+        "name": "休息",
+        "session": "下午",
+        "time": "18:00-19:00"
+    },
+    {
+        "date": "4月20日",
+        "group": null,
+        "hide": 0,
+        "linked": 1,
+        "loc": "广东厅1",
+        "name": "晚宴",
+        "session": "下午",
+        "time": "19:00-21:00"
+    },
+    {
+        "date": "4月21日",
+        "group": null,
+        "hide": 0,
+        "linked": 1,
+        "loc": "广东厅3",
+        "name": "主旨报告4 权龙 Long Quan （香港科技大学）",
+        "session": "上午",
+        "time": "08:30-09:15"
+    },
+    {
+        "date": "4月21日",
+        "group": null,
+        "hide": 0,
+        "linked": 1,
+        "loc": "广东厅3",
+        "name": "茶歇 Poster",
+        "session": "上午",
+        "time": "09:15-09:35"
+    },
+    {
+        "date": "4月21日",
+        "group": "论坛名录",
+        "hide": 0,
+        "linked": 1,
+        "loc": "广州厅1",
+        "name": "视频生成论坛",
+        "session": "上午",
+        "time": "09:35-11:25"
+    },
+    {
+        "date": "4月21日",
+        "group": null,
+        "hide": 0,
+        "linked": 1,
+        "loc": "广州厅1",
+        "name": "赞助报告",
+        "session": "上午",
+        "time": "11:25-12:25"
+    },
+    {
+        "date": "4月21日",
+        "group": null,
+        "hide": 0,
+        "linked": 1,
+        "loc": "广州厅1",
+        "name": "午餐 Poster 面对面",
+        "session": "下午",
+        "time": "12:25-14:00"
+    },
+    {
+        "date": "4月21日",
+        "group": "论坛名录",
+        "hide": 0,
+        "linked": 1,
+        "loc": "广州厅2",
+        "name": "3DGS与NeRF论坛",
+        "session": "下午",
+        "time": "14:00-15:50"
+    },
+    {
+        "date": "4月21日",
+        "group": null,
+        "hide": 0,
+        "linked": 1,
+        "loc": "广州厅1",
+        "name": "茶歇",
+        "session": "下午",
+        "time": "15:50-16:10"
+    },
+    {
+        "date": "4月21日",
+        "group": "论坛名录",
+        "hide": 0,
+        "linked": 1,
+        "loc": "潮州厅",
+        "name": "大场景与自动驾驶论坛",
+        "session": "上午",
+        "time": "16:10-18:00"
+    },
+    {
+        "date": "4月21日",
+        "group": null,
+        "hide": 0,
+        "linked": 1,
+        "loc": "潮州厅",
+        "name": "闭幕式",
+        "session": "上午",
+        "time": "18:00-18:20"
+    }
+]
