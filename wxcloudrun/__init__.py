@@ -15,7 +15,7 @@ app.config['DEBUG'] = config.DEBUG
 
 @app.route('/')
 def index():
-    return render_template('index.html')
+    return render_template('../static/index.html')
 
 # 设定数据库链接
 app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql://{}:{}@{}/flask_demo'.format(config.username, config.password,
