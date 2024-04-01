@@ -8,8 +8,8 @@ pymysql.install_as_MySQLdb()
 
 # 初始化web应用
 app = Flask(__name__,
-static_folder='../build',  #设置静态文件夹目录
-template_folder = "../build",
+static_folder='./build',  #设置静态文件夹目录
+template_folder = "./build",
 static_url_path="",  instance_relative_config=True)
 app.config['DEBUG'] = config.DEBUG
 
