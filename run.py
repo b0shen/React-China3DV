@@ -5,7 +5,7 @@ from wxcloudrun import app
 from flask import render_template
 
 @app.route('/')
-def index():
+def my_index():
     return render_template("index.html")
 
 # 启动Flask Web服务
