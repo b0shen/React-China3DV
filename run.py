@@ -4,9 +4,6 @@ import sys
 from wxcloudrun import app
 from flask import render_template
 
-@app.route('/')
-def China3DV():
-    return render_template("index.html")
 
 # 启动Flask Web服务
 if __name__ == '__main__':
