@@ -1,0 +1,704 @@
+[
+    {
+        "forum": "数字人论坛",
+        "intro": "报告简介",
+        "name": "报告题目-------------------",
+        "note": null,
+        "reportor": "金小刚",
+        "time": "10:30-12:20",
+        "type": "报告"
+    },
+    {
+        "forum": "数字人论坛",
+        "intro":"报告简介",
+        "name": "报告题目-------------------",
+        "note": null,
+        "reportor": "刘利斌",
+        "time": "10:30-12:20",
+        "type": "报告"
+    },
+    {
+        "forum": "数字人论坛",
+        "intro": "报告简介",
+        "name": "报告题目-------------------",
+        "note": null,
+        "reportor": "连宙辉",
+        "time": "10:30-12:20",
+        "type": "报告"
+    },
+    {
+        "forum": "数字人论坛",
+        "intro": "报告简介",
+        "name": "报告题目-------------------",
+        "note": null,
+        "reportor": "杨蛟龙",
+        "time": "10:30-12:20",
+        "type": "报告"
+    },
+    {
+        "forum": "数字人论坛",
+        "intro":"报告简介",
+        "name": "报告题目-------------------",
+        "note": null,
+        "reportor": "王宝元",
+        "time": "10:30-12:20",
+        "type": "报告"
+    },
+    {
+        "forum": "数字人论坛",
+        "intro": "报告简介",
+        "name": "报告题目-------------------",
+        "note": null,
+        "reportor": "Angela Dai",
+        "time": "10:30-12:20",
+        "type": "报告"
+    },
+    {
+        "forum": "SLAM与空间计算论坛",
+        "intro": "报告简介",
+        "name": "报告题目-------------------",
+        "note": null,
+        "reportor": "黄惠",
+        "time": "14:30-15:50",
+        "type": "报告"
+    },
+    {
+        "forum": "SLAM与空间计算论坛",
+        "intro": "报告简介",
+        "name": "报告题目-------------------",
+        "note": null,
+        "reportor": "徐凯",
+        "time": "14:30-15:50",
+        "type": "报告"
+    },
+    {
+        "forum": "SLAM与空间计算论坛",
+        "intro": "报告简介",
+        "name": "报告题目-------------------",
+        "note": null,
+        "reportor": "施柏鑫",
+        "time": "14:30-15:50",
+        "type": "报告"
+    },
+    {
+        "forum": "SLAM与空间计算论坛",
+        "intro": "报告简介",
+        "name": "报告题目-------------------",
+        "note": null,
+        "reportor": "杨佳琪",
+        "time": "14:30-15:50",
+        "type": "报告"
+    },
+    {
+        "forum": "SLAM与空间计算论坛",
+        "intro": "报告简介",
+        "name": "报告题目-------------------",
+        "note": null,
+        "reportor": "崔兆鹏",
+        "time": "14:30-15:50",
+        "type": "报告"
+    },
+    {
+        "forum": "SLAM与空间计算论坛",
+        "intro": "报告简介",
+        "name": "报告题目-------------------",
+        "note": null,
+        "reportor": "郑伟诗",
+        "time": "14:30-15:50",
+        "type": "报告"
+    },
+    {
+        "forum": "青年新星论坛",
+        "intro": "报告简介",
+        "name": "Pointrix: A Research-Oriented Library for Differentiable Point Cloud Rendering",
+        "note": null,
+        "reportor": "姚遥",
+        "time": "16:40-18:30",
+        "type": "报告"
+    },
+    {
+        "forum": "青年新星论坛",
+        "intro": "报告简介",
+        "name": "从现实到仿真：面向自动驾驶仿真的重建与生成",
+        "note": null,
+        "reportor": "廖依伊",
+        "time": "16:40-18:30",
+        "type": "报告"
+    },
+    {
+        "forum": "青年新星论坛",
+        "intro": "报告简介",
+        "name": "面向自动驾驶仿真的三维场景建模",
+        "note": null,
+        "reportor": "彭思达",
+        "time": "16:40-18:30",
+        "type": "报告"
+    },
+    {
+        "forum": "青年新星论坛",
+        "intro": "报告简介",
+        "name": "三维数字人重建、编辑与驱动研究",
+        "note": null,
+        "reportor": "晏轶超",
+        "time": "16:40-18:30",
+        "type": "报告"
+    },
+    {
+        "forum": "青年新星论坛",
+        "intro": "报告简介",
+        "name": "Large Reconstruction Model for 3D Reconstruction and Generation",
+        "note": null,
+        "reportor": "徐英豪",
+        "time": "16:40-18:30",
+        "type": "报告"
+    },
+    {
+        "forum": "青年新星论坛",
+        "intro": "报告简介",
+        "name": "基于高斯Splatting的数字化身建模",
+        "note": null,
+        "reportor": "郑泽荣",
+        "time": "16:40-18:30",
+        "type": "报告"
+    },
+    {
+        "forum": "青年新星论坛",
+        "intro": "报告简介",
+        "name": "动态场景的表征和成像",
+        "note": null,
+        "reportor": "陈文拯",
+        "time": "16:40-18:30",
+        "type": "报告"
+    },
+    {
+        "forum": "青年新星论坛",
+        "intro": "报告简介",
+        "name": "计算科学成像：从太空到细胞像",
+        "note": null,
+        "reportor": "孙赫",
+        "time": "16:40-18:30",
+        "type": "报告"
+    },
+    {
+        "forum": "青年新星论坛",
+        "intro": "报告简介",
+        "name": " Anti-aliasing in Neural Rendering",
+        "note": null,
+        "reportor": "胡文博",
+        "time": "16:40-18:30",
+        "type": "报告"
+    },
+    {
+        "forum": "青年新星论坛",
+        "intro": "报告简介",
+        "name": "大规模三维人物数据搭建及相关生成算法的进展",
+        "note": null,
+        "reportor": "曾爱玲",
+        "time": "16:40-18:30",
+        "type": "报告"
+    },
+    {
+        "forum": "青年新星论坛",
+        "intro": "报告简介",
+        "name": "针对真实世界降质数据的高效神经辐射场(NeRF)",
+        "note": null,
+        "reportor": "徐晓刚",
+        "time": "16:40-18:30",
+        "type": "报告"
+    },
+    {
+        "forum": "青年新星论坛",
+        "intro": "报告简介",
+        "name": "面向物理接触合理的实时全身运动捕捉",
+        "note": null,
+        "reportor": "张鸿文",
+        "time": "16:40-18:30",
+        "type": "报告"
+    },
+    {
+        "forum": "青年新星论坛",
+        "intro": "报告简介",
+        "name": "几何结构驱动的机器人感知与交互",
+        "note": null,
+        "reportor": "施逸飞",
+        "time": "16:40-18:30",
+        "type": "报告"
+    },
+    {
+        "forum": "青年新星论坛",
+        "intro": "报告简介",
+        "name": "面向文生三维的可泛化法线-深度扩散模型",
+        "note": null,
+        "reportor": "陈冠英",
+        "time": "16:40-18:30",
+        "type": "报告"
+    },
+    {
+        "forum": "青年新星论坛",
+        "intro": "报告简介",
+        "name": "面向复杂拓扑的开曲面重建与生成",
+        "note": null,
+        "reportor": "杨洁",
+        "time": "16:40-18:30",
+        "type": "报告"
+    },
+    {
+        "forum": "青年新星论坛",
+        "intro": "报告简介",
+        "name": "Functional Diffusion",
+        "note": null,
+        "reportor": "张彪",
+        "time": "16:40-18:30",
+        "type": "报告"
+    },
+    {
+        "forum": "青年新星论坛",
+        "intro": "报告简介",
+        "name": "三维点云过分割",
+        "note": null,
+        "reportor": "惠乐",
+        "time": "16:40-18:30",
+        "type": "报告"
+    },
+    {
+        "forum": "青年新星论坛",
+        "intro": "报告简介",
+        "name": "基于时空特征的实时动态高斯Splatting",
+        "note": null,
+        "reportor": "李众",
+        "time": "16:40-18:30",
+        "type": "报告"
+    },
+    {
+        "forum": "远程特邀报告",
+        "intro": "报告简介",
+        "name": "报告题目-------------------",
+        "note": null,
+        "reportor": "Jun-Yan Zhu",
+        "time": "19:30-20:00",
+        "type": "报告"
+    },
+    {
+        "forum": "学生论坛",
+        "intro": "报告简介",
+        "name": "报告题目-------------------",
+        "note": null,
+        "reportor": "方杰明",
+        "time": "20:00-22:00",
+        "type": "报告"
+    },
+    {
+        "forum": "学生论坛",
+        "intro": "报告简介",
+        "name": "报告题目-------------------",
+        "note": null,
+        "reportor": "龙霄潇",
+        "time": "20:00-22:00",
+        "type": "报告"
+    },
+    {
+        "forum": "学生论坛",
+        "intro": "报告简介",
+        "name": "报告题目-------------------",
+        "note": null,
+        "reportor": "吴睿海",
+        "time": "20:00-22:00",
+        "type": "报告"
+    },
+    {
+        "forum": "学生论坛",
+        "intro": "报告简介",
+        "name": "报告题目-------------------",
+        "note": null,
+        "reportor": "王倩倩",
+        "time": "20:00-22:00",
+        "type": "报告"
+    },
+    {
+        "forum": "学生论坛",
+        "intro": "报告简介",
+        "name": "报告题目-------------------",
+        "note": null,
+        "reportor": "蔡中昂",
+        "time": "20:00-22:00",
+        "type": "报告"
+    },
+    {
+        "forum": "学生论坛",
+        "intro": "报告简介",
+        "name": "报告题目-------------------",
+        "note": null,
+        "reportor": "徐霖宁",
+        "time": "20:00-22:00",
+        "type": "报告"
+    },
+    {
+        "forum": "3DV与世界模型战略论坛",
+        "intro": "报告简介",
+        "name": "报告题目-------------------",
+        "note": null,
+        "reportor": "陈宝权",
+        "time": "10:20-12:10",
+        "type": "报告"
+    },
+    {
+        "forum": "3DV与世界模型战略论坛",
+        "intro": "报告简介",
+        "name": "报告题目-------------------",
+        "note": null,
+        "reportor": "虞晶怡",
+        "time": "10:20-12:10",
+        "type": "报告"
+    },
+    {
+        "forum": "3DV与世界模型战略论坛",
+        "intro": "报告简介",
+        "name": "报告题目-------------------",
+        "note": null,
+        "reportor": "乔宇",
+        "time": "10:20-12:10",
+        "type": "报告"
+    },
+    {
+        "forum": "三维大模型论坛",
+        "intro": "报告简介",
+        "name": "报告题目-------------------",
+        "note": null,
+        "reportor": "欧阳万里",
+        "time": "13:40-15:30",
+        "type": "报告"
+    },
+    {
+        "forum": "三维大模型论坛",
+        "intro": "报告简介",
+        "name": "报告题目-------------------",
+        "note": null,
+        "reportor": "韩晓光",
+        "time": "13:40-15:30",
+        "type": "报告"
+    },
+    {
+        "forum": "三维大模型论坛",
+        "intro": "报告简介",
+        "name": "报告题目-------------------",
+        "note": null,
+        "reportor": "曹炎培",
+        "time": "13:40-15:30",
+        "type": "报告"
+    },
+    {
+        "forum": "三维大模型论坛",
+        "intro": "报告简介",
+        "name": "报告题目-------------------",
+        "note": null,
+        "reportor": "赵恒爽",
+        "time": "13:40-15:30",
+        "type": "报告"
+    },
+    {
+        "forum": "三维大模型论坛",
+        "intro": "报告简介",
+        "name": "报告题目-------------------",
+        "note": null,
+        "reportor": "苏昊",
+        "time": "13:40-15:30",
+        "type": "报告"
+    },
+    {
+        "forum": "三维大模型论坛",
+        "intro": "报告简介",
+        "name": "报告题目-------------------",
+        "note": null,
+        "reportor": "黄其兴",
+        "time": "13:40-15:30",
+        "type": "报告"
+    },
+    {
+        "forum": "具身智能论坛",
+        "intro": "报告简介",
+        "name": "报告题目-------------------",
+        "note": null,
+        "reportor": "林倞",
+        "time": "16:10-18:00",
+        "type": "报告"
+    },
+    {
+        "forum": "具身智能论坛",
+        "intro": "报告简介",
+        "name": "报告题目-------------------",
+        "note": null,
+        "reportor": "卢策吾",
+        "time": "16:10-18:00",
+        "type": "报告"
+    },
+    {
+        "forum": "具身智能论坛",
+        "intro": "报告简介",
+        "name": "报告题目-------------------",
+        "note": null,
+        "reportor": "弋力",
+        "time": "16:10-18:00",
+        "type": "报告"
+    },
+    {
+        "forum": "具身智能论坛",
+        "intro": "报告简介",
+        "name": "报告题目-------------------",
+        "note": null,
+        "reportor": "王鹤",
+        "time": "16:10-18:00",
+        "type": "报告"
+    },
+    {
+        "forum": "具身智能论坛",
+        "intro": "报告简介",
+        "name": "报告题目-------------------",
+        "note": null,
+        "reportor": "许华哲",
+        "time": "16:10-18:00",
+        "type": "报告"
+    },
+    {
+        "forum": "具身智能论坛",
+        "intro": "报告简介",
+        "name": "报告题目-------------------",
+        "note": null,
+        "reportor": "蒋树强",
+        "time": "16:10-18:00",
+        "type": "报告"
+    },
+    {
+        "forum": "视频生成论坛",
+        "intro": "报告简介",
+        "name": "视频生成年度进展报告",
+        "note": null,
+        "reportor": "穆亚东",
+        "time": "09:35-11:25",
+        "type": "报告"
+    },
+    {
+        "forum": "视频生成论坛",
+        "intro": "报告简介",
+        "name": "报告题目-------------------",
+        "note": null,
+        "reportor": "薄列峰",
+        "time": "09:35-11:25",
+        "type": "报告"
+    },
+    {
+        "forum": "视频生成论坛",
+        "intro": "报告简介",
+        "name": "报告题目-------------------",
+        "note": null,
+        "reportor": "杨易",
+        "time": "09:35-11:25",
+        "type": "报告"
+    },
+    {
+        "forum": "视频生成论坛",
+        "intro": "报告简介",
+        "name": "报告题目-------------------",
+        "note": null,
+        "reportor": "单瀛",
+        "time": "09:35-11:25",
+        "type": "报告"
+    },
+    {
+        "forum": "视频生成论坛",
+        "intro": "报告简介",
+        "name": "报告题目-------------------",
+        "note": null,
+        "reportor": "Zheng Mike，Shou",
+        "time": "09:35-11:25",
+        "type": "报告"
+    },
+    {
+        "forum": "视频生成论坛",
+        "intro": "报告简介",
+        "name": "报告题目-------------------",
+        "note": null,
+        "reportor": "罗平",
+        "time": "09:35-11:25",
+        "type": "报告"
+    },
+    {
+        "forum": "视频生成论坛",
+        "intro": "报告简介",
+        "name": "报告题目-------------------",
+        "note": null,
+        "reportor": "陈启锋",
+        "time": "09:35-11:25",
+        "type": "报告"
+    },
+    {
+        "forum": "3DGS与NeRF论坛",
+        "intro": "报告简介",
+        "name": "3DGS年度进展报告",
+        "note": null,
+        "reportor": "高林",
+        "time": "14:00-15:50",
+        "type": "报告"
+    },
+    {
+        "forum": "3DGS与NeRF论坛",
+        "intro": "报告简介",
+        "name": "报告题目-------------------",
+        "note": null,
+        "reportor": "刘烨斌",
+        "time": "14:00-15:50",
+        "type": "报告"
+    },
+    {
+        "forum": "3DGS与NeRF论坛",
+        "intro": "报告简介",
+        "name": "报告题目-------------------",
+        "note": null,
+        "reportor": "周晓巍",
+        "time": "14:00-15:50",
+        "type": "报告"
+    },
+    {
+        "forum": "3DGS与NeRF论坛",
+        "intro": "报告简介",
+        "name": "报告题目-------------------",
+        "note": null,
+        "reportor": "齐晓娟",
+        "time": "14:00-15:50",
+        "type": "报告"
+    },
+    {
+        "forum": "3DGS与NeRF论坛",
+        "intro": "报告简介",
+        "name": "报告题目-------------------",
+        "note": null,
+        "reportor": "许岚",
+        "time": "14:00-15:50",
+        "type": "报告"
+    },
+    {
+        "forum": "3DGS与NeRF论坛",
+        "intro": "报告简介",
+        "name": "报告题目-------------------",
+        "note": null,
+        "reportor": "戴玉超",
+        "time": "14:00-15:50",
+        "type": "报告"
+    },
+    {
+        "forum": "3DGS与NeRF论坛",
+        "intro": "报告简介",
+        "name": "报告题目-------------------",
+        "note": null,
+        "reportor": "许威威",
+        "time": "14:00-15:50",
+        "type": "报告"
+    },
+    {
+        "forum": "大场景与自动驾驶论坛",
+        "intro": "报告简介",
+        "name": "大场景重建年度进展报告",
+        "note": null,
+        "reportor": "黄思远",
+        "time": "16:10-18:00",
+        "type": "报告"
+    },
+    {
+        "forum": "大场景与自动驾驶论坛",
+        "intro": "报告简介",
+        "name": "报告题目-------------------",
+        "note": null,
+        "reportor": "马惠敏",
+        "time": "16:10-18:00",
+        "type": "报告"
+    },
+    {
+        "forum": "大场景与自动驾驶论坛",
+        "intro": "报告简介",
+        "name": "报告题目-------------------",
+        "note": null,
+        "reportor": "杨睿刚",
+        "time": "16:10-18:00",
+        "type": "报告"
+    },
+    {
+        "forum": "大场景与自动驾驶论坛",
+        "intro": "报告简介",
+        "name": "报告题目-------------------",
+        "note": null,
+        "reportor": "李弘扬",
+        "time": "16:10-18:00",
+        "type": "报告"
+    },
+    {
+        "forum": "大场景与自动驾驶论坛",
+        "intro": "报告简介",
+        "name": "报告题目-------------------",
+        "note": null,
+        "reportor": "陶文兵",
+        "time": "16:10-18:00",
+        "type": "报告"
+    },
+    {
+        "forum": "大场景与自动驾驶论坛",
+        "intro": "报告简介",
+        "name": "报告题目-------------------",
+        "note": null,
+        "reportor": "戴勃",
+        "time": "16:10-18:00",
+        "type": "报告"
+    },
+    {
+        "forum": "大场景与自动驾驶论坛",
+        "intro": "报告简介",
+        "name": "报告题目-------------------",
+        "note": null,
+        "reportor": "王程",
+        "time": "16:10-18:00",
+        "type": "报告"
+    },
+    {
+        "forum": "大场景与自动驾驶论坛",
+        "intro": "报告简介",
+        "name": "报告题目-------------------",
+        "note": null,
+        "reportor": "李战斌",
+        "time": "16:10-18:00",
+        "type": "报告"
+    },
+    {
+        "forum": "大会报告",
+        "intro": null,
+        "name": "主旨报告1",
+        "note": null,
+        "reportor": "张正友",
+        "time": "4月19日 08:30-09:00",
+        "type": "报告"
+    },
+    {
+        "forum": "大会报告",
+        "intro": null,
+        "name": "主旨报告2",
+        "note": null,
+        "reportor": "Matthias Niesner",
+        "time": "4月19日 09:15-10:00",
+        "type": "报告"
+    },
+    {
+        "forum": "大会报告",
+        "intro": null,
+        "name": "主旨报告3",
+        "note": null,
+        "reportor": "Daniel Cohen-Or",
+        "time": "4月20日 09:15-10:00",
+        "type": "报告"
+    },
+    {
+        "forum": "大会报告",
+        "intro": null,
+        "name": "主旨报告4",
+        "note": null,
+        "reportor": " 权龙 Long Quan",
+        "time": "4月21日 08:30-09:15",
+        "type": "报告"
+    }
+]

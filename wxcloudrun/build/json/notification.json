@@ -1,0 +1,22 @@
+[
+    {
+        "forum": "自动驾驶论坛",
+        "id": 1,
+        "sb_hf": "hs",
+        "severity": "warning",
+        "text": "由于讲者的行程限制，明天(12月30日)下午的自动驾驶论坛将提前一个小时开始，提前到13:30开始。\r\n<br />\r\n(12月30补充：变更取消，已恢复为原定计划时间，恢复为14:30开始。 ）",
+        "time": "12月29日",
+        "title": "<strong>自动驾驶论坛</strong>日程变更通知",
+        "type": "日程"
+    },
+    {
+        "forum": "自动驾驶论坛",
+        "id": 2,
+        "sb_hf": "hs",
+        "severity": "info",
+        "text": "今天(12月30日)下午的<strong>自动驾驶论坛</strong>将按照正常时间进行，不再提前，恢复为<strong>14:30</strong>开始。",
+        "time": "12月30日",
+        "title": "<strong>自动驾驶论坛</strong>日程<strong>恢复</strong>通知",
+        "type": "日程"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "image_src": "./images/loc/中山厅.jpg",
+        "loc": "中山厅"
+    },
+    {
+        "image_src": "./images/loc/佛山厅.jpg",
+        "loc": "佛山厅"
+    },
+    {
+        "image_src": "./images/loc/广东厅.jpg",
+        "loc": "广东厅"
+    },
+    {
+        "image_src": "./images/loc/广东厅1.jpg",
+        "loc": "广东厅1"
+    },
+    {
+        "image_src": "./images/loc/广东厅2.jpg",
+        "loc": "广东厅2"
+    },
+    {
+        "image_src": "./images/loc/广东厅3.jpg",
+        "loc": "广东厅3"
+    },
+    {
+        "image_src": "./images/loc/广州厅1.jpg",
+        "loc": "广州厅1"
+    },
+    {
+        "image_src": "./images/loc/广州厅2.jpg",
+        "loc": "广州厅2"
+    },
+    {
+        "image_src": "./images/loc/深圳厅.jpg",
+        "loc": "深圳厅"
+    },
+    {
+        "image_src": "./images/loc/潮州厅.jpg",
+        "loc": "潮州厅"
+    },
+    {
+        "image_src": "./images/loc/珠海厅.jpg",
+        "loc": "珠海厅"
+    }
+]
